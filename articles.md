@@ -1,0 +1,16 @@
+---
+layout: page
+title: Articles
+permalink: /articles/
+---
+
+The complete list of articles that I published are listed here:
+
+<ul>
+  {% for page in site.posts %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
