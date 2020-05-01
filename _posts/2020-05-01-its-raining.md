@@ -2,7 +2,7 @@
 layout: post
 title: it's raining today
 categories: [blog]
-tags: [random]
+tags: [blog]
 ---
 
 Today it's raining pretty hard. It has been so for the last 48H.
