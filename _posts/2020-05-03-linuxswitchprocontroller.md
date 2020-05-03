@@ -20,20 +20,29 @@ Here is the solution:
 `/lib/udev/rules.d/99-steam-controller-perm.rules`
 
 - If not, you have to install the following package:
+
 `$ sudo apt install steam-devices`
 
 - Then, use lsubs to find this values: _bus_ and _device_ for the controller
+
+
 `$ lsusb`
 `$ Bus 001 Device 015: ID 057e:2009 Nintendo Co., Ltd Pro Controller`
 
 - Find the _idVendor_ and _idProduct_ using this command where xxx is the bud and yyy the device, so for me it should be 001 and 015:
+
+
 `$ udevadm info -a -p $(udevadm info -q path -n /dev/bus/usb/xxx/yyy)`
 
 - You then edit the controller rules in /lib/udev/ and add this line:
+
+
 `# NS PRO Controller USB`
 `KERNEL=="hidraw*", ATTRS{idVendor}=="0e6f", ATTRS{idProduct}=="0181", MODE="0666", TAG+="uaccess"`
 
 - Now the last thing to do is to reload the rules:
+
+
 `$ sudo udevadm control --reload-rules`
 
 
