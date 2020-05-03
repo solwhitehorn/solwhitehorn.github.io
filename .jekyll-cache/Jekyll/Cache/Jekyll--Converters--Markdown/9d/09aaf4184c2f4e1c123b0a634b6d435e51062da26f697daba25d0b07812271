@@ -1,0 +1,48 @@
+I"P	<h2 id="troubleshooting-when-your-controller-is-not-recognized-in-ubuntu--steam">#Troubleshooting when your controller is not recognized in Ubuntu &amp; Steam</h2>
+
+<p>Something that I came around today is that my Nintendo Switch Pro controller was not recognized in Steam. Both Steam BigPicture and Steam itself were not able to detect it.</p>
+
+<p>I am currently using Ubuntu 19.10 with the 5.3.0-51-generic kernel, which should be able to detect this kind of controller. I was able to connect via BT but the controller was still no recognized in Steam.</p>
+
+<p>The solution come from a reddit post with the same issue but on ArchLinux.</p>
+
+<p>Here is the solution:</p>
+
+<ul>
+  <li>
+    <p>Check that Steam has controller rules, they should be located there:
+<code class="highlighter-rouge">/lib/udev/rules.d/99-steam-controller-perm.rules</code></p>
+  </li>
+  <li>
+    <p>If not, you have to install the following package:</p>
+
+    <p><code class="highlighter-rouge">$ sudo apt install steam-devices</code></p>
+  </li>
+  <li>
+    <p>Then, use lsubs to find this values: <em>bus</em> and <em>device</em> for the controller, mine is the second line:</p>
+
+    <p><code class="highlighter-rouge">$ lsusb</code></p>
+
+    <p><code class="highlighter-rouge">$ Bus 001 Device 015: ID 057e:2009 Nintendo Co., Ltd Pro Controller</code></p>
+  </li>
+  <li>
+    <p>Find the <em>idVendor</em> and <em>idProduct</em> using this command where xxx is the bud and yyy the device, so for me it should be 001 and 015:</p>
+
+    <p><code class="highlighter-rouge">$ udevadm info -a -p $(udevadm info -q path -n /dev/bus/usb/xxx/yyy)</code></p>
+  </li>
+  <li>
+    <p>You then edit the controller rules in /lib/udev/ and add this line:</p>
+
+    <p><code class="highlighter-rouge"># NS PRO Controller USB</code></p>
+
+    <p><code class="highlighter-rouge">KERNEL=="hidraw*", ATTRS{idVendor}=="0e6f", ATTRS{idProduct}=="0181", MODE="0666", TAG+="uaccess"</code></p>
+  </li>
+  <li>
+    <p>Now the last thing to do is to reload the rules:</p>
+
+    <p><code class="highlighter-rouge">$ sudo udevadm control --reload-rules</code></p>
+  </li>
+</ul>
+
+<p>Now in Steam BigPicture you just have to activate the support for the Pro Controller and the home button should then light in blue. A interesting feature that I don’t know why Nintendo has not implemented when the controller is connected to the Switch?</p>
+:ET
