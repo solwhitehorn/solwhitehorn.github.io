@@ -36,6 +36,7 @@ Here is the solution:
 - You then edit the controller rules in /lib/udev/ and add this line:
 
   `# NS PRO Controller USB`
+
   `KERNEL=="hidraw*", ATTRS{idVendor}=="0e6f", ATTRS{idProduct}=="0181", MODE="0666", TAG+="uaccess"`
 
 - Now the last thing to do is to reload the rules:
