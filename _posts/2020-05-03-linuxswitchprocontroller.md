@@ -17,9 +17,8 @@ The solution come from a reddit post with the same issue but on ArchLinux.
 Here is the solution:
 
 - Check that Steam has controller rules, they should be located there:
-```bash
-/lib/udev/rules.d/99-steam-controller-perm.rules
-```
+`/lib/udev/rules.d/99-steam-controller-perm.rules`
+
 - If not, you have to install the following package:
 ```bash
 $ sudo apt install steam-devices
