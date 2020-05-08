@@ -41,4 +41,4 @@ Of course the info that made the news on the 6th of May is the ESRB rating for C
 
 * 04/06/2020
 
-  Need to find a subject :lollipop:
+  Need to find a subject
