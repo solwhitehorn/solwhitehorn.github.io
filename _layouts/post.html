@@ -12,9 +12,35 @@ layout: default
   <div class="date" style="text-align:left;">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
+<!-- My own twitter button
   <div style="text-align:left;">
-    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a  href="https://twitter.com/intent/tweet?text={{ page.title }}&via=solwhitehorn&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&hashtags={{page.tags | Uppercase | join: ', '}}">
+    <i class="fa fa-twitter share-button"> 🐦Tweet this article!</i>
+    </a>
   </div>
+--> 
+{% if page.comments and page.categories contains 'blog' %}
+<div id="disqus_thread" style="padding-top: 80px;"></div>
+<script>
 
-  {% include disqus.html %}
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-solwhitehorn-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}                           
+
+
 </article>

@@ -1,10 +1,11 @@
 ---
 layout: post
 title: How to connect a Switch Pro Controller to Linux
-subtitle: Fast configuration for Ubuntu/Arch
+subtitle: Quick configuration for Ubuntu/Arch
 illustration: /images/20200503-switchcontroller/logo.png
 categories: [blog]
 tags: [linux, gaming, nintendo switch]
+comments: true
 ---
 
 ### Troubleshooting when your controller is not recognized in Ubuntu & Steam
