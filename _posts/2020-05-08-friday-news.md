@@ -41,7 +41,4 @@ Of course the info that made the news on the 6th of May is the ESRB rating for C
 
 * 04/06/2020
 
-![Tom Cruise visited NASA to ride in the Bldg 5 Motion Base.
-Pictured l to r: Charlie Precourt, Bill Todd, McDougle, Tom Cruise, George Brittingham.](https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/McDougleSC/gallery/photos/tom-cruise-group-pic.jpg)
-*Tom Cruise visited NASA to ride in the Bldg 5 Motion Base.
-Pictured l to r: Charlie Precourt, Bill Todd, McDougle, Tom Cruise, George Brittingham.*
+  Need to find a subject :lollipop:
