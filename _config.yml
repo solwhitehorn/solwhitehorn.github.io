@@ -80,8 +80,8 @@ gems:
 plugins:
   - jekyll-sitemap
 
-include:
-  - _pages
+#include:
+#  - _pages
 
 # Exclude these files from your production _site
 exclude:

@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post" style="text-align:center;">
   <h1>{{ page.title }}</h1>
-
-  <div class="entry">
+  <!--🏷️ {{page.tags | Uppercase | join: ', '}}--> 
+  <div style="text-align:justify;" class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
+  <div class="date" style="text-align:left;">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-  <div>
+  <div style="text-align:left;">
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
