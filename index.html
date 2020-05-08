@@ -17,15 +17,48 @@ layout: default
   {% endfor %}
 </div> -->
 
-<div class="posts">
-  {% for post in site.categories.blog %}
+<!--
+<div class="announce">
+  {% for post in site.categories.announce %}
     <article class="post">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <img src="{{post.illustration}}" style="padding: 5px;zoom:12%;float:right;">
-      </h2>
-      	
-      {{ post.subtitle }}<br>{{ post.date | date: "%-d %B %Y" }} - 
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.date | date: "%-d %B %Y" }} - 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
+-->
+<div class="posts">
+  {% for post in site.categories.blog %}
+    <article class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <img src="{{post.illustration}}" style="object-fit: cover;width: 96px;height: 96px;padding: 5px;float:right;">
+      </h2>
+      	
+      <b>{{ post.subtitle }}</b><br>{{ post.date | date: "%-d %B %Y" }} - 
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+<!--
+
+<div class="posts">
+  {% for post in site.categories.blog %}
+    {% if site.tags == news %}
+    <article class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <img src="{{post.illustration}}" style="object-fit: cover;width: 96px;height: 96px;padding: 5px;float:right;">
+      </h2>
+      {{ post.subtitle }}<br>{{ post.date | date: "%-d %B %Y" }} - 
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+    {% else %}
+    <article class="post">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.date | date: "%-d %B %Y" }} - 
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+    {% endif %}
+  {% endfor %}
+</div>
+-->

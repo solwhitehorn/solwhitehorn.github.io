@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: The Nintendo Switch - A port machine
 subtitle: Why it is the best porting system
 illustration: /images/20200507-switch/logo.png
 categories: [articles]
 tags: [gaming, nintendo switch]
-comments: false
+comments: true
 ---
 
 

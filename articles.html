@@ -4,16 +4,17 @@ title: Articles
 permalink: /articles/
 ---
 
-A complete list of Articles published here by publishing date:
+A complete list of articles here by publishing date:
 
 <div class="posts">
   {% for post in site.categories.articles %}
    <ul> 
     <article class="post">
-
-      <li><span class="date">{{ post.date | date: "%Y-%m-%d"  }}</span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-
+      <li><span class="date">{{ post.date | date: "%B - %Y"  }}</span>
+      <h3><a href="{{ post.url }}">{{ post.title }}
+          <img src="{{post.illustration}}" style="padding-right: 500px;zoom:5%;float:left;">
+          </a>
+      </h3>
     </article>
   </ul>
   {% endfor %}

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to connect a Switch Pro Controller to Linux
+title: ✏️ How to connect a Switch Pro Controller to Linux
 subtitle: Quick configuration for Ubuntu/Arch
 illustration: /images/20200503-switchcontroller/logo.png
 categories: [blog]
-tags: [linux, gaming, nintendo switch]
+tags: [tuto, linux, gaming, nintendo switch]
 comments: true
 ---
 
@@ -22,7 +22,7 @@ Here is the solution:
 
 - Check that Steam has controller rules, they should be located there:
 
-  ```
+  ```bash
   $ /lib/udev/rules.d/99-steam-controller-perm.rules
   ```
 
