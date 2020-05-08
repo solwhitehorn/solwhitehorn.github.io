@@ -18,7 +18,7 @@ comments: true
 
 I think that one of the most hyped event of this week was the **XBOX Series X Event** that happened on the 7th . Unfortunately the reception was not as good as expected with one major complaint being the *Gameplay* reveal event was nothing more that long scripted cinematics. 
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/XCTPu1aUsTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/XCTPu1aUsTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 And there  is no denying it when the first video they showed us, entitled *First Look Xbox Series X Gameplay* (why make it so long...), is the trailer for **Bright Memory Infinite** from the devs at FYQD-Studio. Sure, it looks like gameplay, but the lack of UI, the heavily scripted actions and the cinematic car chase at the end are not the best you can do to truly make the viewer believe in it. And it goes on like that for the rest of the presentation with little actual gameplay and more "*Engine Captured*" game footage.
 
@@ -70,7 +70,7 @@ Stop what you are doing right now. Nintendo just released a new trailer for Xeno
 
 Enough talk, enjoy:
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/TU4uFpCODY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center></center><iframe width="560" height="315" src="https://www.youtube.com/embed/TU4uFpCODY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 
@@ -78,9 +78,11 @@ Enough talk, enjoy:
 
 * Monday, May 4 2020
 
-You know the drill, **May the 4th be with You**. So let's remember that at some point in the last decades, Star Wars was one the major Space Opera in a world were there was no e-drama, social networks and one big media conglomerate to control them all. So to recollect, let's have a classic !
+You know the drill, May the 4th be with You. So let's remember that at some point in the last decades, Star Wars was one the major Space Opera in a world were there was no e-drama, social networks and one big media conglomerate to control them all. So to recollect, let's have a classic !
 
-<img src="https://m.media-amazon.com/images/M/MV5BMTkxMjMxNDk5Ml5BMl5BanBnXkFtZTcwNzIzMzE5NQ@@._V1_SY1000_CR0,0,667,1000_AL_.jpg" style=";object-fit: fill;border-radius: 8px;display: block;margin-left: auto;margin-right: auto;" />
+![](https://imgur.com/a/YXuW5vo) 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/YXuW5vo"><a href="//imgur.com/a/YXuW5vo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <br>
 

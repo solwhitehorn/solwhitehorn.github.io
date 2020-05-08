@@ -1,0 +1,56 @@
+I"ä<h3 id="troubleshooting-when-your-controller-is-not-recognized-in-ubuntu--steam">Troubleshooting when your controller is not recognized in Ubuntu &amp; Steam</h3>
+
+<p>Something that happened to me today is that my Nintendo Switch Pro controller was not recognized in Steam. Both Steam Big Picture and Steam itself were not able to detect it.</p>
+
+<p>I am currently using Ubuntu 19.10 with the 5.3.0-51-generic kernel, which should be able to detect this kind of controller. I was able to connect via BT but the controller was still no recognized in Steam.</p>
+
+<p><img src="/images/20200503-switchcontroller/logo.png" alt="Nintendo Switch logo" style="padding: 25px;display: block;margin-left: auto;margin-right: auto;zoom:15%;" /></p>
+
+<p>The solution come from a <a href="https://www.reddit.com/r/linux_gaming/comments/airri2/switch_wired_pro_controller_on_steam_arch_linux/">reddit post</a> with the same issue but on ArchLinux.</p>
+
+<p>Here is the solution:</p>
+
+<ul>
+  <li>
+    <p>Check that Steam has controller rules, they should be located there:</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>/lib/udev/rules.d/99-steam-controller-perm.rules
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>If not, you have to install the following package:</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>apt <span class="nb">install </span>steam-devices
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Then, use lsubs to find this values: <em>bus</em> and <em>device</em> for the controller, mine is the second line:</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>lsusb
+Bus 001 Device 015: ID 057e:2009 Nintendo Co., Ltd Pro Controller<span class="sb">`</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Find the <em>idVendor</em> and <em>idProduct</em> using this command where xxx is the bud and yyy the device, so for me it should be 001 and 015:</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>udevadm info <span class="nt">-a</span> <span class="nt">-p</span> <span class="si">$(</span>udevadm info <span class="nt">-q</span> path <span class="nt">-n</span> /dev/bus/usb/xxx/yyy<span class="si">)</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>You then edit the controller rules in /lib/udev/ and add this line:</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#NS PRO Controller USB</span>
+<span class="nv">KERNEL</span><span class="o">==</span><span class="s2">"hidraw*"</span>, ATTRS<span class="o">{</span>idVendor<span class="o">}==</span><span class="s2">"0e6f"</span>, ATTRS<span class="o">{</span>idProduct<span class="o">}==</span><span class="s2">"0181"</span>, <span class="nv">MODE</span><span class="o">=</span><span class="s2">"0666"</span>, TAG+<span class="o">=</span><span class="s2">"uaccess"</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Now the last thing to do is to reload the rules:</p>
+
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>udevadm control <span class="nt">--reload-rules</span>
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<p>Now in Steam Big Picture you just have to activate the support for the Pro Controller and the home button should then light in blue. A interesting feature that I donâ€™t know why Nintendo has not implemented when the controller is connected to the Switch?</p>
+
+:ET
