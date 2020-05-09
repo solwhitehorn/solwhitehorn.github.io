@@ -32,7 +32,9 @@ layout: default
   {% for post in site.categories.blog %}
     <article class="post">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <img src="{{post.illustration}}" style="object-fit: cover;width: 96px;height: 96px;padding: 5px;float:right; box-shadow: 0 0 0 0 !important;">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+       <img src="{{post.illustration}}" style="object-fit: cover;width: 96px;height: 96px;padding: 5px;float:right; box-shadow: 0 0 0 0 !important;">
+        </a>
       </h2>
       	
       <b>{{ post.subtitle }}</b><br>{{ post.date | date: "%-d %B %Y" }} - 
