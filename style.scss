@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 860px;
   padding: 0 10px;
   width: 100%;
 }
@@ -272,15 +272,46 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 200px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #F8F8FF;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 8px 0;
   text-align: center;
+}
+
+
+
+// my css
+.buttontweet {
+  background-color: #1DA1F2;
+  border: none;
+  color: white;
+  padding: 7px 18px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttonreddit {
+  background-color: #FF5700;
+  border: none;
+  color: white;
+  padding: 7px 18px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

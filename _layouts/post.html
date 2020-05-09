@@ -4,7 +4,7 @@ layout: default
 
 <article class="post" style="text-align:center;">
   <h1>{{ page.title }}</h1>
-    <div style="text-align:justify;" class="entry">
+  <div style="text-align:justify;" class="entry">
     {{ content }}
   </div>
 
@@ -13,14 +13,8 @@ layout: default
   </div>
 </article>
 
+ <br>
 
+<a href="https://twitter.com/intent/tweet?text={{ page.title }}&via=solwhitehorn&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&hashtags={{page.tags | Uppercase | join: ', '}}" class="buttontweet">Share on Twitter</a>
+<a href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}" class="buttonreddit">Share on Reddit</a>
 
-
-
-<!-- My own twitter button
-  <div style="text-align:left;">
-    <a  href="https://twitter.com/intent/tweet?text={{ page.title }}&via=solwhitehorn&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&hashtags={{page.tags | Uppercase | join: ', '}}">
-    <i class="fa fa-twitter share-button"> 🐦Tweet this article!</i>
-    </a>
-  </div>
---> 

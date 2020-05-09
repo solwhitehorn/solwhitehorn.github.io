@@ -6,54 +6,15 @@ permalink: /articles/
 
 A complete list of articles here by publishing date:
 
-<div class="posts">
-  {% for post in site.categories.articles %}
-   <ul> 
-    <article class="post">
-      <li><span class="date">{{ post.date | date: "%B - %Y"  }}</span>
-      <h3><a href="{{ post.url }}">{{ post.title }}
-          <img src="{{post.illustration}}" style="padding-right: 500px;zoom:5%;float:left;">
-          </a>
-      </h3>
+<div class="page">
+  {% for page in site.categories.articles %}
+    <article class="page">
+      <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+      <img src="{{page.illustration}}" style="object-fit: cover;width: 96px;height: 96px;padding: 5px;float:right;">
+      </h2>
+        
+      <b>{{ page.subtitle }}</b><br>{{ page.date | date: "%-d %B %Y" }} - 
+      <a href="{{ site.baseurl }}{{ page.url }}" class="read-more">Read More</a>
     </article>
-  </ul>
   {% endfor %}
 </div>
-
-
-
-
-
-
-
-
-
-
-
-<!--tags
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><span class="date">{{ post.date | date: "%Y-%m-%d"  }}</span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-
-<!--categories
-
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for page in category[1] %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
---!>
-
-
