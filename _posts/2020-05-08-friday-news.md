@@ -16,11 +16,11 @@ comments: true
 
 * Friday, May 8 2020
 
-I think that one of the most hyped event of this week was the **XBOX Series X Event** that happened on the 7th . Unfortunately the reception was not as good as expected with one major complaint being the *Gameplay* reveal event was nothing more that long scripted cinematics. 
+I think that one of the most hyped event of this week was the **XBOX Series X Event** that happened on the 7th. Unfortunately the reception was not as good as expected with one major complaint being that people were expecting a *Gameplay* reveal event while it was nothing more that long scripted trailers. 
 
 <center><iframe width="720" height="405" src="https://www.youtube.com/embed/XCTPu1aUsTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-And there  is no denying it when the first video they showed us, entitled *First Look Xbox Series X Gameplay* (why make it so long...), is the trailer for **Bright Memory Infinite** from the devs at FYQD-Studio. Sure, it looks like gameplay, but the lack of UI, the heavily scripted actions and the cinematic car chase at the end are not the best you can do to truly make the viewer believe in it. And it goes on like that for the rest of the presentation with little actual gameplay and more "*Engine Captured*" game footage.
+And right from the start, the first trailer gave the tone. Entitled *First Look Xbox Series X Gameplay* (why make it so long...), it is the trailer for **Bright Memory Infinite** from the devs at FYQD-Studio. Sure, it looks like gameplay, but the lack of UI, the heavily scripted movements and the cinematic car chase at the end are not the best you can do to truly make the viewer believe in it. And it goes on like that for the rest of the presentation with little actual gameplay and more "*Engine Captured*" game footage.
 
 The backlash was vocal enough that Aaron Greenberg (GM of Xbox Game Marketing) acknowledge the issue in a tweet:
 
@@ -47,7 +47,7 @@ source: [ESRB](https://www.esrb.org/ratings/36949/Cyberpunk+2077/)
 
 * Wednesday, May 6 2020
 
-A team of astrophysicist recently discovered a new black hole, the closest one to earth that was ever "observed". The article published in *Astronomy & Astrophysics* comes from the European Southern Observatory in collaboration with other institutes. This new celestial object has been found in the Telescopium constellation with the help of the MPG/ESO 2.2-metre telescope located in the La Silla Observatory (Chile). It seems that the black hole is part of a three star system but so far its presence was only theorized since 2009. 
+A team of astrophysicists recently discovered a new black hole, the closest one to earth that was ever "observed". The article published in *Astronomy & Astrophysics* comes from the European Southern Observatory in collaboration with other institutes. This new celestial object has been found in the Telescopium constellation with the help of the MPG/ESO 2.2-metre telescope located in the La Silla Observatory (Chile). The fact is that this black hole can't be observed at the moment, we can only deduce it presence due to the influence it has on is neighboring two companion stars.  
 
 The importance of this article comes from the methodology used and its possible future application to discover never-seen before black holes.
 
@@ -55,10 +55,14 @@ The importance of this article comes from the methodology used and its possible 
 
 <span style="color: grey; font-size:0.8em;">*Illustration provided by the European Southern Observatory presenting the orbits of the objects in the HR 6819 triple system. The group is made up of an inner binary with one star, orbit in blue, and a newly discovered black hole, orbit in red, as well as a third star in a wider orbit, blue. Credit: L. Calçada—ESO/AP*  </span>
 
-The article is in Free Access and if you are interested I highly recommend reading it:
+If you are an astrophysicist I recommend reading the article that is in Free Access:
 
-**A naked-eye triple system with a nonaccreting black hole in the inner binary**  -- *Th. Rivinius, D. Baade, P. Hadrava, M. Heida and R. Klement*
-[DOI: 10.1051/0004-6361/202038020](https://doi.org/10.1051/0004-6361/202038020)  
+> **A naked-eye triple system with a nonaccreting black hole in the inner binary**  -- *Th. Rivinius, D. Baade, P. Hadrava, M. Heida and R. Klement*
+> [DOI: 10.1051/0004-6361/202038020](https://doi.org/10.1051/0004-6361/202038020) 
+
+And if not, there is this interesting video explaining it:
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Jk_j7rz0SIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 
