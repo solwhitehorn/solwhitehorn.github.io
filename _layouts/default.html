@@ -5,18 +5,25 @@
 <meta name="google-site-verification" content="MwigT6jUn-1PUmoq5XBUvwtGeY5vNq33_8zsRphp_48" />
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@solwhitehorn">
-<meta name="twitter:title" content="{{ page.title }}">
+<!-- Twitter cards -->
+<meta name="twitter:site"    content="@solwhitehorn">
+<meta name="twitter:creator" content="@solwhitehorn">
+<meta name="twitter:title"   content="{{ page.title }}">
 
-{% if page.description %}
-  <meta name="twitter:description"
-    content="{{ page.meta_description }}">
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
 {% else %}
-  <meta name="twitter:description"
-    content="{{ page.content | strip_html | xml_escape
-      | truncate: 200 }}">
+<meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
+
+{% if page.illustration %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.title_image }}">
+{% endif %}
+<!-- end of Twitter cards -->
 
 <!-- Display -->
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
