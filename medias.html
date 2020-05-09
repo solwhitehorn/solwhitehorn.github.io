@@ -7,12 +7,10 @@ permalink: /medias/
 <center>
 <div class="posts">
   {% for post in site.categories.medias %}
-   <ul> 
-    <article class="post">
+  <article class="post">
       <span class="date">{{ post.date | date: "%F"  }}</span><br>
       {{post.content}}
     </article>
-  </ul>
   {% endfor %}
 </div>
 </center>
