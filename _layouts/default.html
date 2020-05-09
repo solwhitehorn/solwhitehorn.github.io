@@ -4,7 +4,6 @@
 <!-- Google botnet -->
 <meta name="google-site-verification" content="MwigT6jUn-1PUmoq5XBUvwtGeY5vNq33_8zsRphp_48" />
 
-<!-- Twitter Card -->
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@solwhitehorn">
 <meta name="twitter:text:title"    content="{{ page.title }}">
@@ -17,9 +16,9 @@
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 
-{% if post.illustration %}
+{% if page.illustration %}
 <meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="/images/bio.jpg">
+<meta name="twitter:image" content="{{ page.illustration }}">
 {% else %}
 <meta name="twitter:card"  content="summary">
 <meta name="twitter:image" content="/images/bio.jpg">
