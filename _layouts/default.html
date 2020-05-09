@@ -1,7 +1,32 @@
 <!DOCTYPE html>
 <html>
   <head>
+<!-- Google botnet -->
 <meta name="google-site-verification" content="MwigT6jUn-1PUmoq5XBUvwtGeY5vNq33_8zsRphp_48" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@solwhitehorn">
+<meta name="twitter:title" content="{{ page.title }}">
+
+{% if page.description %}
+  <meta name="twitter:description"
+    content="{{ page.meta_description }}">
+{% else %}
+  <meta name="twitter:description"
+    content="{{ page.content | strip_html | xml_escape
+      | truncate: 200 }}">
+{% endif %}
+
+{% if page.image.thumb %}
+  <meta name="twitter:image"
+    content="{{ site.urlimg }}/{{ page.image.thumb }}">
+{% else %}
+  <meta name="twitter:image"
+    content="{{ site.urlimg }}/path/to/cover.png">
+{% endif %}
+
+<!-- Display -->
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
