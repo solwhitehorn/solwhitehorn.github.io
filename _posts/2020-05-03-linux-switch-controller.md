@@ -2,7 +2,7 @@
 layout: post
 title: ✏️ How to connect a Switch Pro Controller to Linux
 subtitle: Quick configuration for Ubuntu/Arch
-illustration: /images/20200503-switchcontroller/logo.png
+illustration: https://cdn.vox-cdn.com/thumbor/YFJJoAdBa9n2YA8za8GoBFgCMj8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/53373313/jbareham_170221_1475_0010.0.0.jpg
 categories: [blog]
 tags: [tuto, linux, gaming, nintendo switch]
 comments: true
@@ -12,9 +12,7 @@ comments: true
 
 Something that happened to me today is that my Nintendo Switch Pro controller was not recognized in Steam. Both Steam Big Picture and Steam itself were not able to detect it. 
 
-I am currently using Ubuntu 19.10 with the 5.3.0-51-generic kernel, which should be able to detect this kind of controller. I was able to connect via BT but the controller was still no recognized in Steam. 
-
-![Nintendo Switch logo](/images/20200503-switchcontroller/logo.png){:style="padding: 25px;display: block;margin-left: auto;margin-right: auto;zoom:15%;"}
+I am currently using Ubuntu 19.10 with the 5.3.0-51-generic kernel, which should be able to detect this kind of controller. I was able to connect via BT but the controller was still not recognized in Steam. 
 
 The solution come from a [reddit post](https://www.reddit.com/r/linux_gaming/comments/airri2/switch_wired_pro_controller_on_steam_arch_linux/) with the same issue but on ArchLinux.
 
@@ -73,4 +71,4 @@ Here is the solution:
 
 Now in Steam Big Picture you just have to activate the support for the Pro Controller and the home button should then light in blue. A interesting feature that I don't know why Nintendo has not implemented when the controller is connected to the Switch?
 
-
+![](https://cdn.vox-cdn.com/thumbor/YFJJoAdBa9n2YA8za8GoBFgCMj8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/53373313/jbareham_170221_1475_0010.0.0.jpg)

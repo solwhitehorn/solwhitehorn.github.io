@@ -34,12 +34,11 @@ The backlash was vocal enough that Aaron Greenberg (GM of Xbox Game Marketing) a
 
 Of course the info that made the news on the 6th of May is the ESRB rating for Cyberpunk 2077. The surprise didn't come from the rating itself, as it was obvious that a M rating was expected, knowing the themes and content of the game. What made people go nut and started a new load of memes is this statement in the rating:
 
-```The game contains nudity and sexual material: Players can select a gender and customize their character; customization can include depictions of breasts, buttocks, and genitalia, as well as various sizes and combinations of genitals. Players can encounter events where they have the option to engage in sexual activities with other main characters or prostitutes—these brief sex scenes (from a first-person perspective) depict partially nude characters moaning suggestively while moving through various positions. Some scenes contain brief depictions of thrusting motions; other scenes depict a character's head moving towards a partner's crotch.```
+>The game contains nudity and sexual material: Players can select a gender and customize their character; <mark>customization can include depictions of breasts, buttocks, and genitalia, as well as various sizes and combinations of genitals</mark>. Players can encounter events where they have the option to engage in sexual activities with other main characters or prostitutes—these brief sex scenes (from a first-person perspective) depict partially nude characters moaning suggestively while moving through various positions. <mark>Some scenes contain brief depictions of thrusting motions</mark>; other scenes depict a character's head moving towards a partner's crotch.
 
 source: [ESRB](https://www.esrb.org/ratings/36949/Cyberpunk+2077/)
 
-<blockquote class="reddit-card" data-card-created="1588948109"><a href="https://www.reddit.com/r/cyberpunkgame/comments/gf62cv/i_look_forward_to_this/">I look forward to this</a> from <a href="http://www.reddit.com/r/cyberpunkgame">r/cyberpunkgame</a></blockquote>
-<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>  
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/v-2ybdF7lwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 
