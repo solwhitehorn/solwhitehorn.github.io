@@ -85,6 +85,7 @@ include:
 
 # Exclude these files from your production _site
 exclude:
+  - .jekyll-cache
   - Gemfile
   - Gemfile.lock
   - LICENSE
