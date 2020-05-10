@@ -16,7 +16,7 @@ comments: true
 
 So now that I'm tinkering a little bit with this website, I wanted to have nice Twitter Cards to share when publishing a new post or article. 
 
-My googlefu gave me a lot of answers but I kept on having on error when validating the card on Twitter's side. Here's how you do it with a static website build with Jekyll.  
+My googlefu gave me a lot of answers but I kept on having errors when validating the card on Twitter's side. Here's how you do it with a static website build with Jekyll.  
 
 
 
@@ -49,14 +49,14 @@ You will have to put this in your header. You can have it in an include file. I'
 
 **!!Remark: the liquid tag here (e.g. page.title) must be inside double curly brackets otherwise it would not process the request.**
 
-I couldn't put them that way in this markdown code snippets are they were processed in the HTML conversion. I'm still looking for a way to do that.
+I couldn't put them that way here as I use Markdown to write my article and every time I put some HTML code, it is processed when the .md file is converted to the website. I'm still looking for a solution to bypass that.
 
-Once it's done, you will have to validate your card by parsing your URL it at this address:  [https://cards-dev.twitter.com/validator](https://cards-dev.twitter.com/validator). Don't use your base URL has it would not pass due to the fact that some metatags will be missing (page.title for example).
+Once it's done, you will have to validate your card by parsing your URL it at this address:  [https://cards-dev.twitter.com/validator](https://cards-dev.twitter.com/validator). Don't use your base URL has it would not pass due to some metatags missing (page.title for example).
 
 The bit that got me confused was that I always had this error while previewing the card: 
 
 >ERROR: Required meta tag missing (twitter:text:title)
 
-And there is little to no information on the internet about this error when it comes to Jekyll, while a lot of people had it solved with Wordpress. So it was just a matter of adding this metatag and parse him the *page.title* tag.
+And there is little to no information on the internet about this error when it comes to Jekyll, while a lot of people had it solved with Wordpress. So it was just a matter of adding this metatag and parse him the *page.title* content.
 
 Now my only problem is that *page.illustration* are not taken into account when Twitter creates the card. That's something I'm still looking at.
