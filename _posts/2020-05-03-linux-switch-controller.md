@@ -51,7 +51,7 @@ Here is the solution:
 
   We are looking for this two values: ATTR**S**{idVendor} and ATTR**S**{idProduct}
 
-- 
+
 
 - You then edit the controller rules in /lib/udev/rules.d/99-steam-controller-perm.rules and add these lines (of course, replace the XXXX with your values):
 
