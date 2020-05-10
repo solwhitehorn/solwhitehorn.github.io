@@ -43,19 +43,21 @@ Here is the solution:
 
   
 
-- Find the _idVendor_ and _idProduct_ using this command where xxx is the bud and yyy the device, so for me it should be 001 and 015:
+- Find the _idVendor_ and _idProduct_ using this command where xxx is the bus and yyy the device, so for me it should be 001 and 015:
 
   ```bash
   $ udevadm info -a -p $(udevadm info -q path -n /dev/bus/usb/xxx/yyy)
   ```
 
-  
+  We are looking for this two values: ATTR**S**{idVendor} and ATTR**S**{idProduct}
 
-- You then edit the controller rules in /lib/udev/ and add this line:
+- 
+
+- You then edit the controller rules in /lib/udev/rules.d/99-steam-controller-perm.rules and add these lines (of course, replace the XXXX with your values):
 
   ```bash
   #NS PRO Controller USB
-  KERNEL=="hidraw*", ATTRS{idVendor}=="0e6f", ATTRS{idProduct}=="0181", MODE="0666", TAG+="uaccess"
+  KERNEL=="hidraw*", ATTRS{idVendor}=="XXXX", ATTRS{idProduct}=="XXXX", MODE="0666", TAG+="uaccess"
   ```
 
   
