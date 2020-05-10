@@ -18,13 +18,13 @@ comments: true
 
 I think that one of the most hyped event of this week was the **XBOX Series X Event** that happened on the 7th. Unfortunately the reception was not as good as expected with one major complaint being that people were expecting a *Gameplay* reveal event while it was nothing more that long scripted trailers. 
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/XCTPu1aUsTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe class="iframev" width="720" height="405" src="https://www.youtube.com/embed/XCTPu1aUsTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 And right from the start, the first trailer gave the tone. Entitled *First Look Xbox Series X Gameplay* (why make it so long...), it is the trailer for **Bright Memory Infinite** from the devs at FYQD-Studio. Sure, it looks like gameplay, but the lack of UI, the heavily scripted movements and the cinematic car chase at the end are not the best you can do to truly make the viewer believe in it. And it goes on like that for the rest of the presentation with little actual gameplay and more "*Engine Captured*" game footage.
 
 The backlash was vocal enough that Aaron Greenberg (GM of Xbox Game Marketing) acknowledge the issue in a tweet:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had we not said anything &amp; just shown May Inside Xbox show like we did last month, I suspect reactions might have been different. Clearly we set some wrong expectations &amp; that’s on us. We appreciate all the feedback &amp; can assure you we will take it all in &amp; learn as a team. 🙏🏻💚</p>&mdash; Aaron Greenberg 🙅🏼‍♂️❎ (@aarongreenberg) <a href="https://twitter.com/aarongreenberg/status/1258584474155053058?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had we not said anything &amp; just shown May Inside Xbox show like we did last month, I suspect reactions might have been different. Clearly we set some wrong expectations &amp; that’s on us. We appreciate all the feedback &amp; can assure you we will take it all in &amp; learn as a team. 🙏🏻💚</p>&mdash; Aaron Greenberg 🙅🏼‍♂️❎ (@aarongreenberg) <a href="https://twitter.com/aarongreenberg/status/1258584474155053058?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><center>
 
 <br>
 
@@ -38,7 +38,7 @@ Of course the info that made the news on the 6th of May is the ESRB rating for C
 
 source: [ESRB](https://www.esrb.org/ratings/36949/Cyberpunk+2077/)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/v-2ybdF7lwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/v-2ybdF7lwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 
@@ -61,7 +61,7 @@ If you are an astrophysicist I recommend reading the article that is in Free Acc
 
 And if not, there is this interesting video explaining it:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Jk_j7rz0SIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/Jk_j7rz0SIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 
@@ -73,7 +73,7 @@ Stop what you are doing right now. Nintendo just released a new trailer for Xeno
 
 Enough talk, enjoy:
 
-<center><iframe width="720" height="405" src="https://www.youtube.com/embed/TU4uFpCODY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe class="iframev" width="720" height="405" src="https://www.youtube.com/embed/TU4uFpCODY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 

@@ -69,6 +69,6 @@ Here is the solution:
   
 
 
-Now in Steam Big Picture you just have to activate the support for the Pro Controller and the home button should then light in blue. A interesting feature that I don't know why Nintendo has not implemented when the controller is connected to the Switch?
+Now in Steam Big Picture you just have to activate the support for the Pro Controller and the home button should then light in blue.
 
 ![](https://cdn.vox-cdn.com/thumbor/YFJJoAdBa9n2YA8za8GoBFgCMj8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/53373313/jbareham_170221_1475_0010.0.0.jpg)
