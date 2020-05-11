@@ -24,7 +24,7 @@ And right from the start, the first trailer gave the tone. Entitled *First Look 
 
 The backlash was vocal enough that Aaron Greenberg (GM of Xbox Game Marketing) acknowledge the issue in a tweet:
 
-<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had we not said anything &amp; just shown May Inside Xbox show like we did last month, I suspect reactions might have been different. Clearly we set some wrong expectations &amp; that’s on us. We appreciate all the feedback &amp; can assure you we will take it all in &amp; learn as a team. 🙏🏻💚</p>&mdash; Aaron Greenberg 🙅🏼‍♂️❎ (@aarongreenberg) <a href="https://twitter.com/aarongreenberg/status/1258584474155053058?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><center>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Had we not said anything &amp; just shown May Inside Xbox show like we did last month, I suspect reactions might have been different. Clearly we set some wrong expectations &amp; that’s on us. We appreciate all the feedback &amp; can assure you we will take it all in &amp; learn as a team. 🙏🏻💚</p>&mdash; Aaron Greenberg 🙅🏼‍♂️❎ (@aarongreenberg) <a href="https://twitter.com/aarongreenberg/status/1258584474155053058?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 <br>
 
