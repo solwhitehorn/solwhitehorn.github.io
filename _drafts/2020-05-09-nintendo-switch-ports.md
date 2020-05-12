@@ -53,19 +53,14 @@ Good ports
 
 Doom 2016 was considered as one of this *impossible* game to port on the Switch. We are talking about a fast paced, action oriented new gen FPS. A quick look at the minimum specs for PC vs the Switch's hardware will let you see why it was a challenge to port:
 
+|                | PC Minimum Specs |     Switch specs      |
+| -------------- | :--------------: | :-------------------: |
+| **CPU**        | i52400 - 3.4 GHz | ARM Cortex - 1020 MHz |
+| **GPU**        |   GTX670 - 2GB   |    Tegra - 768 MHz    |
+| **RAM**        |       8 GB       |       4 GB DD4        |
+| **Disk Space** |      55 GB       |         32 GB         |
 
-
-|            | PC Minimum Specs | Switch specs |
-| ---------- | ---------------- | ------------ |
-| CPU        |                  |              |
-| GPU        |                  |              |
-| RAM        |                  |              |
-| Disk Space |                  |              |
-|            |                  |              |
-
-
-
-
+There is no need to comment further. The Switch is largely under the minimal specs required for the PC version of the game. So how did they manage to port it?
 
 
 
