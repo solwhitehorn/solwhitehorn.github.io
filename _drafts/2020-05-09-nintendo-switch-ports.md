@@ -41,7 +41,7 @@ As we said earlier, the Switch is known to host a lot of ports from other system
 
 There is not much to say about retrogames as I don't necessary think that they are challenging to port nowadays. First, most of the times they already have been ported to different systems multiple times. Secondly, most of them are run through emulators rather than being ported directly to the new architecture. As mentioned before, the worst that can happen is if the source code is lost. Then it's a whole different story.
 
-Then there is third party ports, that's when a subcontractor is in charge of porting the game to the targeted system. In the case of the Switch, there is a lot to say about this port. Some are really interesting technically while other are a thing straight out of a nightmare.
+Then there is third party ports, that's when a subcontractor is in charge of porting the game to the targeted system. In the case of the Switch, there is a lot to say about this port. Some are really interesting technically while other are a thing straight out of a nightmare. When possible I will compare the minimum requirement for the game if it has been released on PC. If not, they will be compared to the base version of their console version (i.e. PS4 or Xbox One S).  
 
 
 
@@ -50,6 +50,22 @@ Good ports
 * DOOM - ported by 
 
 <center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/6lRpoGucGA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Doom 2016 was considered as one of this *impossible* game to port on the Switch. We are talking about a fast paced, action oriented new gen FPS. A quick look at the minimum specs for PC vs the Switch's hardware will let you see why it was a challenge to port:
+
+
+
+|            | PC Minimum Specs | Switch specs |
+| ---------- | ---------------- | ------------ |
+| CPU        |                  |              |
+| GPU        |                  |              |
+| RAM        |                  |              |
+| Disk Space |                  |              |
+|            |                  |              |
+
+
+
+
 
 
 
