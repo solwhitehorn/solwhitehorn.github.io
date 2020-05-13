@@ -1,14 +1,54 @@
 ---
 layout: post
-title: 🗞️ The News from Friday - 15.08.2020
-subtitle: Here it's goes again
+title: The News from Friday - XX.XX.2020
+subtitle: What's new in our world
 illustration: /images/newspaper.png
 categories: [blog]
 tags: [news]
 comments: true
 ---
 
-###  News Title
+### TITLE D
+
+<br>
+
+---
+
+* Friday, May 15 2020
+
+
+
+<br>
+
+---
+
+* Thursday, May 14 2020
+
+state of play Ghost of Tsushima
+
+
+
+---
+
+* Wednesday, May 13 2020
+
+<center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/e7aUWvsQ6W0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wish I could share more frequent updates on the film adaptation of <a href="https://twitter.com/HIDEO_KOJIMA_EN?ref_src=twsrc%5Etfw">@HIDEO_KOJIMA_EN</a>’s seminal METAL GEAR SOLID...<br><br>But❗️I can share this codec from the legends <a href="https://twitter.com/DavidBHayter?ref_src=twsrc%5Etfw">@DavidBHayter</a>, <a href="https://twitter.com/4pauleiding?ref_src=twsrc%5Etfw">@4pauleiding</a> &amp; <a href="https://twitter.com/christophran?ref_src=twsrc%5Etfw">@christophran</a> as we celebrate MGS and try to make the world whole again.<a href="https://twitter.com/hashtag/MGSQUARANTINE?src=hash&amp;ref_src=twsrc%5Etfw">#MGSQUARANTINE</a> <a href="https://t.co/6AE9qLL74v">pic.twitter.com/6AE9qLL74v</a></p>&mdash; Jordan Vogt-Roberts (@VogtRoberts) <a href="https://twitter.com/VogtRoberts/status/1260293444691390465?ref_src=twsrc%5Etfw">May 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+
+
+<br>
+
+---
+
+* Tuesday, XX XX 2020
+
+https://iss-sim.spacex.com
+
+https://techcrunch.com/2020/05/12/spacex-simulator-shows-you-what-its-actually-like-to-dock-crew-dragon-with-the-space-station/
+
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simulator of Crew Dragon docking with <a href="https://twitter.com/Space_Station?ref_src=twsrc%5Etfw">@space_station</a> → <a href="https://t.co/vVqJfnbuNC">https://t.co/vVqJfnbuNC</a> <a href="https://t.co/ZH3bkT0DhM">pic.twitter.com/ZH3bkT0DhM</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/1260269423090208768?ref_src=twsrc%5Etfw">May 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 <br>
 
@@ -25,4 +65,6 @@ Enough talk, enjoy:
 <br>
 
 ---
+
+
 
