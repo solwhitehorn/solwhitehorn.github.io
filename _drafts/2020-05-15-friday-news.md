@@ -42,7 +42,15 @@ state of play Ghost of Tsushima
 
 ---
 
-* Tuesday, XX XX 2020
+* Tuesday, May 12 2020
+
+Your dream of becoming a space trucker has never been so close! SpaceX, Elon Musk's aerospace manufacturer and space transportation company just released a new space simulator. 
+
+Try yourself at docking the Crew Dragon with the ISS. The Crew Dragon is a reusable spacecraft capable of carrying 7 passengers to and from Earth orbit (and beyond as they advertise). The aim here is to dock yourself with the ISS while controlling the pitch, yawn, role and thrust of the capsule. It can be a little bit tricky if you are not accustomed to space simulation games (you should try Kerbal Space Program). 
+
+Just a note, if you want to embark in this docking scenario, you must have all values nominal (in green and < 0.2) when approaching the station.
+
+Have fun, space cowboy:
 
 https://iss-sim.spacex.com
 
