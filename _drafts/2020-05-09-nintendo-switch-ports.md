@@ -47,7 +47,7 @@ Then there is third party ports, that's when a subcontractor is in charge of por
 
 Good ports
 
-* DOOM - ported by 
+* DOOM - ported by Panic Button
 
 <center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/6lRpoGucGA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -61,6 +61,49 @@ Doom 2016 was considered as one of this *impossible* game to port on the Switch.
 | **Disk Space** |      55 GB       |         32 GB         |
 
 There is no need to comment further. The Switch is largely under the minimal specs required for the PC version of the game. So how did they manage to port it?
+
+Compromise:
+
+* image quality -> adaptive resolution around 600p with temporal AA
+* depth of field and alpha effects rendered at 1/4 resolution (around 360p)
+* fov locked at 90
+* lighting and reflections reduced or removed
+* ambient occulion reduced
+* color bending and removal of some color gradient
+* 30 fps but can drop to 20 fps in when a lot of enemies are on screen, lower difficulties with fewer enemies show better perf
+* bad framepacing, i.e. frame persisting on screen for variable amount of time.
+
+Intact:
+
+* all the original levels with every stages complete
+* all enemies, weapons and features
+* motion blur
+
+from digital foundry: video settings seems to be below the PC lowest settings
+
+looks good however and feels like doom
+
+portable mode as good as docked mode
+
+loading time similar or shorter than regular PS4
+
+
+
+patch 1.2
+
+increased performance
+
+video capture
+
+add recent player to friend list
+
+average revolution up to 720p from 684p, TAA ajusted 
+
+smoother FPS but sill frame pacing issues
+
+
+
+*take screenshot from digital foundry videos
 
 
 
