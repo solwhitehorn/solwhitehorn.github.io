@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ✏️ How to connect a Switch Pro Controller to Linux
+title: 📝 How to connect a Switch Pro Controller to Linux
 subtitle: Quick configuration for Ubuntu/Arch
 illustration: https://cdn.vox-cdn.com/thumbor/YFJJoAdBa9n2YA8za8GoBFgCMj8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/53373313/jbareham_170221_1475_0010.0.0.jpg
 categories: [blog]

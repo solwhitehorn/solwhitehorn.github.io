@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ✏️ How to implement Twitter Cards with Jekyll
+title: 📝 How to implement Twitter Cards with Jekyll
 subtitle: That took some research
 illustration: https://avatars1.githubusercontent.com/u/3083652?s=400&v=4
 categories: [blog]
