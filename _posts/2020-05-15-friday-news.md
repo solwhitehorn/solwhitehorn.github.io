@@ -62,7 +62,7 @@ It seems that it's the kind of communication that Nintendo will use for the comi
 
 <br> 
 
-The other trailer that a lot of people were waiting for was Sony's State of Play, featuring Sucker Punch Studios new IP **Ghost of Tsushima**. To be honest I was not as impressed as I thought I would be. Gameplay seems fun but not so dynamic at what was teased previously. The pace of the game is a lot slower than your typical sword action adventure. Also my first impression of the world design was not the best. I found it to be "bland" if I can use that term, something is lacking but I can't put my finger on what exactly. Anyway, enjoy the trailers if you didn't saw them already:
+The other trailer that a lot of people were waiting for was Sony's State of Play, featuring Sucker Punch Studios new IP **Ghost of Tsushima**. To be honest I was not as impressed as I thought I would be. Gameplay seems fun but not so dynamic at what was teased previously. The pace of the game is a lot slower than your typical sword action adventure. Also my first impression of the world design was not the best. I found it to be "bland" if I can use that term, something is lacking but I can't put my finger on what exactly. Anyway, enjoy the trailer:
 
 <center><iframe class ="iframev" width="560" height="315" src="https://www.youtube.com/embed/Ur0pQblaZcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 

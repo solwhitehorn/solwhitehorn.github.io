@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🗞️ The News from Friday - 05.08.2020
+title: 🗞️ The News this week - May 4 to 8
 subtitle: What's new in our world
 illustration: /images/newspaper.png
 categories: [blog]
