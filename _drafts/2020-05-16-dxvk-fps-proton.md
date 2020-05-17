@@ -24,7 +24,7 @@ DXVK_HUD=1 %command%
 
 This will overlay the name of your GPU, versions of the drivers you are using and a FPS counter.
 
-Multiple options are available to you if you want more informations, just separate them with commas in your launch command:
+Multiple options are available to you if you want more information, just separate them with commas in your launch command:
 
 - `devinfo`: Displays the name of the GPU and the driver version.
 - `fps`: Shows the current frame rate.
@@ -43,3 +43,5 @@ Multiple options are available to you if you want more informations, just separa
 The first commend `DXVK_HUD=1 %command%` is equivalent here to `DXVK_HUD=deving,fps` %command%
 
 The same is true if you are using Lutris, but this time you have to put that in the environment variable.
+
+As always, it you want to now more, the best source is the github page of the project: 
