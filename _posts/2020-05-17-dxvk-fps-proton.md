@@ -1,14 +1,12 @@
 ---
-layout:[post]
+layout: post
 title: 📝 How to monitor your FPS in Linux (Steam & Lutris)
 subtitle: An easy alternative for MSI Afterburner
 illustration: https://www.khronos.org/assets/uploads/apis/2020-Vulkan-small-badge.png
-categories:[blog]
-tags:[tuto, linux, proton]
+categories: [blog]
+tags: [tuto, linux, proton]
 comments: true
 ---
-
-
 
 # A quick and easy way to display your FPS and more when using Steam Proton on Linux
 
@@ -46,3 +44,4 @@ As always, it you want to now more, the best source is the github page of the pr
 
 If you want to see this in action, have a look at this video I made with the Witcher 3 running in Steam Proton on max settings:
 
+ 
