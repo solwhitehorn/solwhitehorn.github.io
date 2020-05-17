@@ -1,6 +1,6 @@
 ---
 layout:[post]
-title: 📝 How to monitor your FPS in Linux (Steam/Lutris)
+title: 📝 How to monitor your FPS in Linux (Steam & Lutris)
 subtitle: An easy alternative for MSI Afterburner
 illustration: https://www.khronos.org/assets/uploads/apis/2020-Vulkan-small-badge.png
 categories:[blog]
