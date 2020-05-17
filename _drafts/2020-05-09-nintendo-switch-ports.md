@@ -39,9 +39,9 @@ Now that we know what a port is, let's have a look at some games that were porte
 
 As we said earlier, the Switch is known to host a lot of ports from other system. However we have to differentiate the port from *retrogames* (I include the 5th generation with the PS1, N64 and Sega Saturn) and ports from the few last generations of systems (let's say at least from the 6th generation with the PS2, Xbox and Gamecube to current systems). 
 
-There is not much to say about retrogames as I don't necessary think that they are challenging to port nowadays. First, most of the times they already have been ported to different systems multiple times. Secondly, most of them are run through emulators rather than being ported directly to the new architecture. As mentioned before, the worst that can happen is if the source code is lost. Then it's a whole different story.
+There is not much to say about retrogames as I don't necessary think that they are challenging to port nowadays (at least to the Switch). First, most of the times they already have been ported to different systems multiple times. Secondly, most of them are run through emulators rather than being ported directly to the new architecture. As mentioned before, the worst that can happen is if the source code is lost. Then it's a whole different story.
 
-Then there is third party ports, that's when a subcontractor is in charge of porting the game to the targeted system. In the case of the Switch, there is a lot to say about this port. Some are really interesting technically while other are a thing straight out of a nightmare. When possible I will compare the minimum requirement for the game if it has been released on PC. If not, they will be compared to the base version of their console version (i.e. PS4 or Xbox One S).  
+Then there is third party ports, that's when a subcontractor is in charge of porting the game to the targeted system. In the case of the Switch, there is a lot to say about these ports. Some are really interesting technically while other are a thing straight out of a nightmare. When possible I will compare the minimum requirement for the game if it has been released on PC. If not, it will be compared to the performance of their console version (i.e. PS4 or Xbox One S).  
 
 
 
@@ -62,44 +62,13 @@ Doom 2016 was considered as one of this *impossible* game to port on the Switch.
 
 There is no need to comment further. The Switch is largely under the minimal specs required for the PC version of the game. So how did they manage to port it?
 
-Compromise:
+The first thing to mention is that Panic Button manage to port the totality of the original levels with every stages being in its complete form. In the same manner, all enemies, weapons and features from the PC release are on the Switch version which is a very good thing. However a large number of compromises had to be done, especially in the graphic department.
 
-* image quality -> adaptive resolution around 600p with temporal AA
-* depth of field and alpha effects rendered at 1/4 resolution (around 360p)
-* fov locked at 90
-* lighting and reflections reduced or removed
-* ambient occulion reduced
-* color bending and removal of some color gradient
-* 30 fps but can drop to 20 fps in when a lot of enemies are on screen, lower difficulties with fewer enemies show better perf
-* bad framepacing, i.e. frame persisting on screen for variable amount of time.
+The image quality is obviously lower than the PC counterpart, with a resolution scaled down to around 720p (since patch 1.2). But this resolution is not fixed and Panic Button implemented adaptive resolution meaning that it can go further down in order to maintain a constant framerate. Talking about framerate, the target is 30 FPS but it can drop to 20 when a lot of enemies are on screen. A funny consequence from this is that lower difficulties with fewer enemies exhibits better framerates while higher difficulties are penalized by important drops when the action gets heavy. Among other things we can mention: the FOV is locked at 90; DOF and alpha effects are rendered at 25% of the initial resolution (so around 360p); lighting and reflections effects are reduced or removed; ambient occlusion effects are reduced and color gradients are sometimes removed. 
 
-Intact:
+One of the major downfall of this port is the framepacing, i.e. that frame are persisting on screen for a variable amount of time. Digital Foundry did an excellent job at documenting this effect on the docked version of the game. An other thing they put in evidence is that the video settings are globally below the PC lowest setting. Not a surprise considering how demanding this game is. 
 
-* all the original levels with every stages complete
-* all enemies, weapons and features
-* motion blur
-
-from digital foundry: video settings seems to be below the PC lowest settings
-
-looks good however and feels like doom
-
-portable mode as good as docked mode
-
-loading time similar or shorter than regular PS4
-
-
-
-patch 1.2
-
-increased performance
-
-video capture
-
-add recent player to friend list
-
-average revolution up to 720p from 684p, TAA ajusted 
-
-smoother FPS but sill frame pacing issues
+Overall, even with all of these compromise, Doom 2016 on the Switch is still a impressive port as Panic Button managed to keep what's make the essence of the game: fast paced, gory, intense, demon hunting. The loading time are even quite similar to the one the base PS4 according to Digital Foundry. And to top that, the portable mode is as good as the docked mode which is the most interesting feature of this port, being able to slay demons on the go.
 
 
 
