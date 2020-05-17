@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🗞️ The News this week - May 11 to 15
+title: 📰 The News this week - May 11 to 15
 subtitle: A lot happened this week 
 illustration: /images/newspaper.png
 categories: [blog]
