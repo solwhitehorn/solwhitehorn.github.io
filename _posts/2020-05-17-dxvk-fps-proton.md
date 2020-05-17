@@ -40,8 +40,9 @@ Multiple options are available to you if you want more information, just separat
 - `samplers`: Shows the current number of sampler pairs used [D3D9 Only].
 - **`full`**: enables all the available HUD elements
 
-The first commend `DXVK_HUD=1 %command%` is equivalent here to `DXVK_HUD=deving,fps` %command%
+The first commend `DXVK_HUD=1 %command%` is equivalent here to `DXVK_HUD=deving,fps` %command%. The same is true if you are using Lutris, but this time you have to put that in the environment variable.
 
-The same is true if you are using Lutris, but this time you have to put that in the environment variable.
+As always, it you want to now more, the best source is the github page of the project: https://github.com/doitsujin/dxvk
 
-As always, it you want to now more, the best source is the github page of the project: 
+If you want to see this in action, have a look at this video I made with the Witcher 3 running in Steam Proton on max settings:
+
