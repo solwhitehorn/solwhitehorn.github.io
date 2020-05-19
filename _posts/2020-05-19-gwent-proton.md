@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDPR Just released the rework of Gwent and it runs well with Steam Proton!
+title: 🐧 CDPR Just released the rework of Gwent and it runs well with Steam Proton!
 subtitle: How about a a game of Gwent?
 illustration: http://assets.vg247.com/current/2016/06/gwent_logo.jpg
 categories: [blog]
