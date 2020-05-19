@@ -1,16 +1,14 @@
 ---
 layout: post
-title: 🐧 CDPR Just released the rework of Gwent and it runs well with Steam Proton!
-subtitle: How about a a game of Gwent?
+title: 🐧 How about a game of Gwent on Linux
+subtitle: Gwent runs very well with Steam Proton!
 illustration: http://assets.vg247.com/current/2016/06/gwent_logo.jpg
 categories: [blog]
 tags: [tuto, linux, proton, steam, gaming]
 comments: true
 ---
 
-### Gwent - The Witcher Card Game just released on Steam. Here is how to play it in Linux
-
-<br>
+### Gwent - The Witcher Card Game just released on Steam. Here is how to play it in Linux<br>
 
 ---
 
