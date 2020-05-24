@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐧 Hunting Monster on Linux
+title: 🐧🦖 Hunting Monsters on Linux
 subtitle: Monster Hunter World is one of my favorite.
 illustration: https://upload.wikimedia.org/wikipedia/fr/7/7e/Monster_Hunter_World_Logo.png
 categories: [blog]
@@ -18,7 +18,7 @@ Anyway, this time I wanted to play some with the newest Monster Hunter: **World*
 
 Sure, if compared to Windows, the performance are a little bit lower and I saw my framerate drop significantly. However, I am very happy that the game runs very well. You'll see in the video that I posted that my framerate averages 45 to 50 FPS but that's while recording with OBS. Without recording, I'm a bit closer to 50 to 55 fps. I am not near a perfect stable 60FPS but I'm running the game at max settings on a Mid-spec PC that is a few years old now...
 
-For sure I'm going to get the **Iceborne** DLC soon 🦖
+For sure I'm going to get the **Iceborne** DLC soon.
 
 Enough talking, enjoy the video and if you like it, be sure to support Proton and show Valve that you prefer to game on Linux.
 
