@@ -34,7 +34,7 @@ Let's do this.
 
 This generation for me was ruled by the SNES system and already a lot of the game from this console have been ported in the last years so I'll focus on some gems that really need to be on the Switch.
 
-** Chrono Trigger**
+**Chrono Trigger**
 
 <img src="https://i.ytimg.com/vi/hdWTrxJo28M/maxresdefault.jpg" style=";object-fit: fill;border-radius: 8px;display: block;margin-left: auto;margin-right: auto;" />
 
@@ -49,5 +49,3 @@ This is the same as for Chrono Trigger. These games have already been ported to 
 **The Mother Series**
 
 <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg" style=";object-fit: fill;border-radius: 8px;display: block;margin-left: auto;margin-right: auto;" />
-
-![img](https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg)
