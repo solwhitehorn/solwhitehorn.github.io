@@ -48,5 +48,15 @@ This is the same as for Chrono Trigger. These games have already been ported to 
 
 **The Mother Series**
 
-<img src="https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg" style=";object-fit: fill;border-radius: 8px;display: block;margin-left: auto;margin-right: auto;" />
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--h7EdH-1Q--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/1382981499979430059.png" style=";object-fit: fill;border-radius: 8px;display: block;margin-left: auto;margin-right: auto;" />
+
+Mother or Earthbound in the US and EU is one of the best RPGS from the SNES era. This game is one of the genera defining title that stuck with a lot of people. Its influence in the indie scene can't be denied (think Undertale for example) and it has already been ported to several Nintendo systems: GBA, Nintendo 3DS, Wii U and is shipped with the Super NES Mini. There is absolutely no reason not to have this game on the Switch and it would be again a major success.
+
+
+
+**Dragon Quest**
+
+<img src="https://cdn.atomix.vg/wp-content/uploads/2015/05/DragonQuest_Heroes.jpg" style=";object-fit: fill;border-radius: 8px;display: block;margin-left: auto;margin-right: auto;" />
+
+With Dragon Quest I, II and III being released on the Switch in not so long after the release of XI:S in 2019, it's another major series that need to be ported to the Switch. The missing episodes (IV to IX) like a lot of the games listed here have already been ported to other platforms (the DS and 3DS but also to Android and iOS). Just like Final Fantasy, having the complete series on the  Switch would be a major success, especially in Japan as they were lucky enough to have X (the MMO) ported on the Switch in 2017. But I'm sure the West would also be very receptive to a full port of the series with the success that XI encountered.
 
