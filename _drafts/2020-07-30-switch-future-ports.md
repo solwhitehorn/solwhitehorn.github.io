@@ -96,3 +96,13 @@ This is one of the best RPG that the PSX was blessed to have. An unique story an
 
 [^vs]: https://en.wikipedia.org/wiki/Vagrant_Story
 
+**Castlevania Symphony of the Night**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uE7dez4sLJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+Castlevania: Symphony of the Night begins during the ending of the previous game in the series, Castlevania: Rondo of Blood, where Richter Belmont confronts and defeats Count Dracula. Four years later, in 1796, Richter goes missing and Dracula's castle reappears.Alucard, Dracula's dhampir son arrives at the castle to destroy it.[^csotn]
+
+Add text
+
+[^csotn]:https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night#Plot
