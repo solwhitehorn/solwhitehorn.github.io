@@ -38,6 +38,12 @@ This generation for me was ruled by the SNES system and already a lot of the gam
 
 How come this game is not on the Switch yet? It has already been ported and "remastered" for so many systems, I mean you can play it on: PS1, Nintendo DS, iOS, Android and Steam. And on top of that, Nintendo already has the SNES Virtual Console where they could easily put it and it would be a major success. The SNES virtual console is a major disappointment but it could be an article on it's own.
 
+<<<<<<< Updated upstream
+=======
+
+
+**Final Fantasy IV, V and IV**
+>>>>>>> Stashed changes
 
 
 **Final Fantasy IV, V and VI**
