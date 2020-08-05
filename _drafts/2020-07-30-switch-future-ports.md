@@ -109,8 +109,10 @@ This is one of the best RPG that the PSX was blessed to have. An unique story an
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/uE7dez4sLJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
-Castlevania: Symphony of the Night begins during the ending of the previous game in the series, Castlevania: Rondo of Blood, where Richter Belmont confronts and defeats Count Dracula. Four years later, in 1796, Richter goes missing and Dracula's castle reappears.Alucard, Dracula's dhampir son arrives at the castle to destroy it.[^csotn]
+Castlevania: Symphony of the Night begins during the ending of the previous game in the series, Castlevania: Rondo of Blood, where Richter Belmont confronts and defeats Count Dracula. Four years later, in 1796, Richter goes missing and Dracula's castle reappears.Alucard, Dracula's dhampir son arrives at the castle to destroy it[^csotn].
 
-Add text
+This is another gem from the PlayStation era that is still a fan favorite. Never forget that this game is at the heart of the Metroidvania style that is still a big thing amount indie devs.
+
+To be continued
 
 [^csotn]:https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night#Plot
