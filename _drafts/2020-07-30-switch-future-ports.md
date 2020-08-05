@@ -36,15 +36,11 @@ This generation for me was ruled by the SNES system and already a lot of the gam
 
 <center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/OFmTAc50LR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+Chrono Trigger takes place in a world similar to Earth, with eras such as the prehistoric age, in which primitive humans and dinosaurs share the earth; the Middle Ages, replete with knights, monsters, and magic; and the post-apocalyptic future, where destitute humans and sentient robots struggle to survive. The characters frequently travel through time to obtain allies, gather equipment, and learn information to help them in their quest[^ct].
+
 How come this game is not on the Switch yet? It has already been ported and "remastered" for so many systems, I mean you can play it on: PS1, Nintendo DS, iOS, Android and Steam. And on top of that, Nintendo already has the SNES Virtual Console where they could easily put it and it would be a major success. The SNES virtual console is a major disappointment but it could be an article on it's own.
 
-<<<<<<< Updated upstream
-=======
-
-
-**Final Fantasy IV, V and IV**
->>>>>>> Stashed changes
-
+[^ct]: https://en.wikipedia.org/wiki/Chrono_Trigger
 
 **Final Fantasy IV, V and VI**
 
@@ -111,8 +107,6 @@ This is one of the best RPG that the PSX was blessed to have. An unique story an
 
 Castlevania: Symphony of the Night begins during the ending of the previous game in the series, Castlevania: Rondo of Blood, where Richter Belmont confronts and defeats Count Dracula. Four years later, in 1796, Richter goes missing and Dracula's castle reappears.Alucard, Dracula's dhampir son arrives at the castle to destroy it[^csotn].
 
-This is another gem from the PlayStation era that is still a fan favorite. Never forget that this game is at the heart of the Metroidvania style that is still a big thing amount indie devs.
-
-To be continued
+This is another gem from the PlayStation era that is still a fan favorite, and of course one of mine. And to add to that this game is with Super Metroid, the roots of the famous *Metroidvania* genre that is vastly popular now, especially among indie developers. The game has recently been ported to Android and iOS with absolutely no announcement up until the release date. One can hope that the PS4 port (Symphony and Rondo of Blood bundled) will someday be shadow ported to our beloved Switch. 
 
 [^csotn]:https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night#Plot
