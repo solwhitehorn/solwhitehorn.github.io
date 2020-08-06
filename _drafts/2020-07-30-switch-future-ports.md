@@ -12,7 +12,7 @@ comments: false
 
 <br>
 
-I was born in the mid-80s, which mean that I had the chance to live through what I consider a golden era of video games. I still remember playing pacman on my old man's Apple II. Along the years, I was lucky to have a lot of different systems and latter on I went on chasing what I was missing. 
+I was born in the mid-80s, which mean that I had the chance to live through what I consider a golden era of video games. I still remember playing pacman on my old man's Apple II. Along the years, I was lucky to have a lot of different systems and later on I went on chasing what I was missing. 
 
 The nostalgia lens or Rosy retrospection is a real phenomenon where in your memory you kindly remember what seems to be a better past. You know like: "In my time we didn't have DLCs and live service and always connect games". I might be wrong on that but I truly thing that a lot of things were easier 20 years ago than right now. 
 
@@ -110,3 +110,11 @@ Castlevania: Symphony of the Night begins during the ending of the previous game
 This is another gem from the PlayStation era that is still a fan favorite, and of course one of mine. And to add to that this game is with Super Metroid, the roots of the famous *Metroidvania* genre that is vastly popular now, especially among indie developers. The game has recently been ported to Android and iOS with absolutely no announcement up until the release date. One can hope that the PS4 port (Symphony and Rondo of Blood bundled) will someday be shadow ported to our beloved Switch. 
 
 [^csotn]:https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night#Plot
+
+
+
+**Ridge Racer Type 4**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/PMZ872rsa90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+Ridge Racer Type 4 id in my opinion one the best arcade racing ever released. I didn’t play many racing games in the last two decades and it might br because type 4 really spoiled the genre for me. Beautiful DA, awesome soundtrack, excellent gameplay, lot of content, and I can keep on distributing praises to this game. I always preferred arcade racer and felt them more fun to play in comparison to racing simulation. I’m sad that Bandai Namco let the franchise die as it would have be a serious competition to the few IPs that still exists today.
