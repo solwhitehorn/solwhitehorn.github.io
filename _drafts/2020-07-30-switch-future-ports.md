@@ -117,4 +117,17 @@ This is another gem from the PlayStation era that is still a fan favorite, and o
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/PMZ872rsa90" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Ridge Racer Type 4 id in my opinion one the best arcade racing ever released. I didn’t play many racing games in the last two decades and it might br because type 4 really spoiled the genre for me. Beautiful DA, awesome soundtrack, excellent gameplay, lot of content, and I can keep on distributing praises to this game. I always preferred arcade racer and felt them more fun to play in comparison to racing simulation. I’m sad that Bandai Namco let the franchise die as it would have be a serious competition to the few IPs that still exists today.
+Ridge Racer Type 4 is in my opinion one the best arcade racing game ever released. The gameplay focuses on two type of dire style: Grip and Drift that change the way you will have to engage on the circuit. Basically you either drift while turning or you powerslide and to do that you need to manage braking and accelerating at the right moment. Their is a GP mode that serves as a story mode where you have to chose a driving team amount 4 of them but also between 4 car constructors. Depending on your choices the game will be harder or easier with some team being able to provide you with the fastest car and some struggling to stay in the race. Progression is based on unlocking new cars after each step in the GP and depends on your position at the end of the heat. Meaning that being 1st place on every race will grant you the best cars while being 3rd or 2nd will leave you with worse cars to race.
+
+I didn’t play many racing games in the last two decades and it might be because RR:Type 4 really spoiled the genre for me. A Beautiful DA with Gouraud shading, an awesome soundtrack, excellent gameplay, lot of content including secret cars, and I can keep on distributing praises to this game. I always preferred arcade racer and felt them more fun to play in comparison to racing simulation. I’m sad that Bandai Namco let the franchise die as it would have be a serious competition to the few IPs that still exists today.
+
+Anyway, I don’t think that a simple port would be enough for this game and I would rather see a remastered version with improved graphics and resolution to do justice to what might be the most praised episode in the serie.
+
+
+**Tenchu I & II**
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/HiP3WujoXrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+One of the other great stealth games that came in 1998 on the PSX was Tenchu 1 that let you live the life of a silent ninja assassin in feudal Japan. I’m sure that for the ones who played it at the time you remember the stealth kill, taking the roofs with your hook and just trying to understand how to progress through the levels. It was a really good game for its time. I never had the chance to play the sequel but I read that it’s one of the best game on the PSX. Like for Ridge Racer T4, I don’t think that a simple port would be enough and at least the first game would need a lot of QoL improvement.
+
+
