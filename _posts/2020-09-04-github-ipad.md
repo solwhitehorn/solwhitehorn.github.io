@@ -17,7 +17,7 @@ At first I was using my personal laptop but I didn’t have it with me at all ti
 
 **I. The Hardware**
 
-I’m using a 9.7“ iPad that i got in 2018. It’s a good piece of equipement and even If I’m not to found of the Apple ecosystems I got to admit it does the job. 
+I’m using a 9.7“ iPad that i got in 2018. It’s a good piece of equipement and even If I’m not too found of the Apple ecosystems, I got to admit it does the job. At first I was mainly using it for work as I used to travel a lot and assist many meetings. I used to have my laptop with me all the time but it was more and more a chore, then I went back to the good old times of paper notes. The good think with paper is that it’s a quick way to note ideas and make some schematics, but it can also be a lot of work to them rewrite them back on your computer for reports and such. Then came the iPad and the possibility to take handwritten notes easily converted as text with figure and all and saved as a word or pdf document.
 
 I bought a small foldable Bluetooth keyboard from [Jelly Comb](https://www.amazon.com/Bluetooth-Keyboard-Jelly-Comb-Rechargeable/dp/B01LS32D52/ref=sr_1_10?crid=20EK0XR44250Y&dchild=1&keywords=jelly+comb+wireless+keyboard+for+ipad&qid=1599217104&sprefix=jelly+comb+wireless+keyboard+%2Caps%2C238&sr=8-10). It’s not the best keyboard in the world but it’s small, light and has all of the iOS shortcuts plus a little trackpad that I must admit can be quite useful. Using a keyboard with your iPad also have some great new way to use you tablet like alt-tabbing or controlling music playback with a single shortcut.
 
