@@ -14,15 +14,16 @@ comments: false
 
 I was born in the mid-80s, which mean that I had the chance to live through what I consider a golden era of video games. I still remember playing pacman on my old man's Apple II. Along the years, I was lucky to have a lot of different systems and later on I went on chasing what I was missing. 
 
-The nostalgia lens or Rosy retrospection is a real phenomenon where in your memory you kindly remember what seems to be a better past. You know like: "In my time we didn't have DLCs and live service and always connect games". I might be wrong on that but I truly thing that a lot of things were easier 20 years ago than right now. 
+The nostalgia lens or Rosy retrospection is a real phenomenon where in your memory you kindly remember what seems to be a better past. You know like: "In my time we didn't have DLCs and live services and always connected games". I might be wrong on that but I truly think that a lot of things were easier 20 years ago than right now. 
 
-I put my PS4 away as it was collecting dust and I'm thinking about selling it in a few months. I was also watching the new systems reveals for the PS5 and Xbox and to be honest, it didn't spark any interest. Sure, the games looks fine for some of them but we is it really something we never saw before? Maybe I'm getting too old for all of this. 
+I put my PS4 away as it was collecting dust and I'm thinking about selling it in a few months. I was also watching the new systems reveals for the PS5 and Xbox and to be honest, it didn't spark any interest. Sure, the games looks fine for some of them but is it really something we never saw before? Maybe I'm getting too old for all of this. 
 
-I digress. What made me think a lot about that in the past months is that I have been spending more time playing on my Switch than my other system. The reason is that I lot of the games I enjoy are ports of all games that I had the chance to discover when they first came out. I know that the Switch gets a lot of criticism for being a *"port machine"* but to be honest, this is what I love about it. 
+I digress. What made me think a lot about that in the past months is that I have been spending more time playing on my Switch than my other system. The reason is that a lot of the games I enjoy are ports of games that I had the chance to discover when they first came out. I know that the Switch gets a lot of criticism for being a *"port machine"* but to be honest, this is what I love about it. 
 
-So before going further there is a point that we need to address right now: the Switch's system specs. Sure this system is glorified tablet but a lot a recent port made a good example of how this little machine is fit to receive port from previous generations. Have a look at **The Witcher 3**, **Divinity Original Sins 2**, **Doom 2016**, and more recently **Crisis**. So specs are not an issue for the games I'm going to discuss here. 
+So before going further there is a point that we need to address right now: the Switch's system specs. Sure this system is glorified tablet but a lot a recent port made a good example of how this little machine is fit to receive port from previous generations. Have a look at **The Witcher 3**, **Divinity Original Sins 2**, **Doom 2016**, and more recently **Crysis**. So specs are not an issue for the games I'm going to discuss here. 
 
-I will make my list going through time and generation of systems from the 8 bit era to the PS3/Xbox generation. Most of the games I will list are favorites of mine so your opinions and wishes might be vastly different and I hope so. 
+At first I wanted to do a complete list of the games I wanted to see ported but it’s a long task and would be a really long article. So let’s do this by generation of platforms and maybe add some along the way.
+Most of the games I will list are favorites of mine so your opinions and wishes might be vastly different and I hope so. 
 
 Let's do this.
 
@@ -38,7 +39,7 @@ This generation for me was ruled by the SNES system and already a lot of the gam
 
 Chrono Trigger takes place in a world similar to Earth, with eras such as the prehistoric age, in which primitive humans and dinosaurs share the earth; the Middle Ages, replete with knights, monsters, and magic; and the post-apocalyptic future, where destitute humans and sentient robots struggle to survive. The characters frequently travel through time to obtain allies, gather equipment, and learn information to help them in their quest[^ct].
 
-How come this game is not on the Switch yet? It has already been ported and "remastered" for so many systems, I mean you can play it on: PS1, Nintendo DS, iOS, Android and Steam. And on top of that, Nintendo already has the SNES Virtual Console where they could easily put it and it would be a major success. The SNES virtual console is a major disappointment but it could be an article on it's own.
+How is it possible that this game is not on the Switch yet? It has already been ported and "remastered" for so many systems, I mean you can play it on: PS1, Nintendo DS, iOS, Android and Steam. And on top of that, Nintendo already has the SNES Virtual Console where they could easily put it and it would be a major success. The SNES virtual console is a major disappointment but it could be an article on it's own.
 
 [^ct]: https://en.wikipedia.org/wiki/Chrono_Trigger
 
@@ -47,23 +48,23 @@ How come this game is not on the Switch yet? It has already been ported and "rem
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/j_lr12kgGeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 This is the same as for Chrono Trigger. These games have already been ported to so many systems. Why Nintendo and Square? Just do it already. And on top of that Final Fantasy 7, 8, 9, X and X-2 are available on the Switch. Moreover, we recently had the release of Dragon Quest I, II and III on the Switch. They really could have use the hyper generated by the release of FF 7 Remake to port this games to the Switch and gave people the full collection from Final Fantasy I to X. Just imagine that for a moment...
-
-
+At the time of writing this article it came to me that Nintendo just announced the release of a bundle with Final Fantasy I, II and III called [Collection of SaGa](https://www.nintendo.com/games/detail/collection-of-saga-final-fantasy-legend-switch/). We are definitely going to see the complete saga on the console some day!
 
 **The Mother Series**
 
 <center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/vGOEMCG2Ll4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Mother or Earthbound in the US and EU is one of the best RPGS from the SNES era. This game is one of the genera defining title that stuck with a lot of people. Its influence in the indie scene can't be denied (think Undertale for example) and it has already been ported to several Nintendo systems: GBA, Nintendo 3DS, Wii U and is shipped with the Super NES Mini. There is absolutely no reason not to have this game on the Switch and it would be again a major success.
+EarthBound takes place in the year 199X right after the events of Mother, in the fictional country of Eagleland, an obvious parody of America. The player starts as a young boy named Ness as he investigates a nearby meteorite crash with his neighbor, Pokey, to find his brother Picky. They find that an alien force, Giygas, has enveloped and consumed the world in hatred and consequently turned animals, humans, and objects into malicious creatures. A small, bee-like creature from the future instructs Ness to collect melodies in a Sound Stone from eight Sanctuaries to preemptively stop the force[^eb].
 
+Mother or Earthbound in the US and EU is one of the best RPGS from the SNES era. This game is one of the genera defining title that stuck with a lot of people. Its influences in the indie scene can't be denied (think Undertale for example) and it has already been ported to several Nintendo systems: GBA, Nintendo 3DS, Wii U and is shipped with the Super NES Mini. There is absolutely no reason not to have this game on the Switch and it would be again a major success.
 
+[^eb]: https://en.wikipedia.org/wiki/EarthBound
 
 **Dragon Quest**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/7RhPZk5ORQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 With Dragon Quest I, II and III being released on the Switch not so long after the release of XI:S in 2019, it's another major series that need to be ported to the Switch. The missing episodes (IV to IX) like a lot of the games listed here have already been ported to other platforms (the DS and 3DS but also to Android and iOS). Just like Final Fantasy, having the complete series on the  Switch would be a major success, especially in Japan as they were lucky enough to have X (the MMO) ported on the Switch in 2017. But I'm sure the West would also be very receptive to a full port of the series with the success that XI encountered. And to add to that, the Builders series is also available on the Switch. So really, there is no excuses here.
-
 
 
 ------
@@ -131,3 +132,4 @@ Anyway, I don’t think that a simple port would be enough for this game and I w
 One of the other great stealth games that came in 1998 on the PSX was Tenchu 1 that let you live the life of a silent ninja assassin in feudal Japan. I’m sure that for the ones who played it at the time you remember the stealth kill, taking the roofs with your hook and just trying to understand how to progress through the levels. It was a really good game for its time. I never had the chance to play the sequel but I read that it’s one of the best game on the PSX. Like for Ridge Racer T4, I don’t think that a simple port would be enough and at least the first game would need a lot of QoL improvement.
 
 
+All right, I’m gonna stop it there or the time. My next titles will be in a future article and we might be coming back to the PSX as they are so many good games on this platform. 
