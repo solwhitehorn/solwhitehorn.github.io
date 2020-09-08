@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 📝 A great solution for displaying your FPS in Linux
+title: 📝 A great solution for displaying your FPS in Linux (Steam & Lutris)
 subtitle: MangoHud all day, everyday
 illustration:https://github.com/flightlessmango/MangoHud/blob/master/assets/overlay_example.gif
 categories: [blog]
@@ -10,21 +10,18 @@ comments: true
 
 # MangoHud is the best way to monitor FPS on Linux
 
-Throw back to my last article on 
+Throw back to an article I wrote back in May about how to display your FPS with Proton on Steam. Since then I discovered an even better tool called MangoHud.
 
+MangoHud is a Vulcan and OpenGL overlay used for monitoring FPS, temperatures, CPU/GPU load, VRAM, RAM and more.
 
+Its installation is easy and I point you to the GitHub page for more information on that. 
+Using it is also really easy:
 
-As you might have seen I've been posting some videos now on my youtube channel. Some are short footages from my Switch (as I don't have a capture device), other are now some footage of my playing game in Linux.
+- to enable the HUD for Vulkan and OpenGL run: `mangohud /path/to/app`
+- For Lutris, got to the system options and add this command prefix: `mangohud`
+- for Steam you can add this launch option: `mangohud %command%`
 
-In a past life using Windows I was used to having MSI Afterburner to monitor the performance of my games. You can't run this soft in Linux but there is a easy and quick way to do so.
-
-If you are using Steam's Proton compatibility tool you can put this in the launch options:
-
-`DXVK_HUD=1 %command%`
-
-This will overlay the name of your GPU, versions of the drivers you are using and a FPS counter.
-
-Multiple options are available to you if you want more information, just separate them with commas in your launch command:
+The command options that you can use with steam are numerous:
 
 - `devinfo`: Displays the name of the GPU and the driver version.
 - `fps`: Shows the current frame rate.
