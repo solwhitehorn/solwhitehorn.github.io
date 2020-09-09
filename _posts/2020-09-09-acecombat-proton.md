@@ -24,8 +24,6 @@ Anyway, no need to write a long text when I can show you the performance that I 
 
 <center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/k1BIaJZNUYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-
-
 <br>
 
 ---
