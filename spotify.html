@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Spotify
 permalink: /spotify/
 ---
@@ -40,8 +40,10 @@ Something to listen to:
 <div class="posts">
   {% for post in site.categories.spotify %}
   <article class="post">
-      <span class="date">{{ post.title }}</span>
+      <span>{{ post.title }}</span>
+      <center>
       {{post.content}}
+      </center>
   </article>
   {% endfor %}
 </div>
