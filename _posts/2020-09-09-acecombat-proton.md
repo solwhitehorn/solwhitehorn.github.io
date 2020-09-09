@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ✈️ Ace Comabt 7 on Linux
-subtitle: <<I was just a child when the stars fell from the skies>>
+subtitle: \<<I was just a child when the stars fell from the skies\>>
 illustration: https://w2mnet.com/wp-content/uploads/2019/02/Ace-Combat-7-Cover.jpg
 categories: [blog]
 tags: [tuto, linux, proton, steam, gaming]
@@ -22,7 +22,7 @@ Anyway, no need to write a long text when I can show you the performance that I 
 
 <br>
 
-<iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/k1BIaJZNUYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/k1BIaJZNUYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 
