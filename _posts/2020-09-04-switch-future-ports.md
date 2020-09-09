@@ -10,7 +10,9 @@ comments: false
 
 ### The Nintendo Switch has proven to be a wonderful port machine and there is many games that are still missing a long-awaited port
 
-<br>
+### <br>
+
+---
 
 I was born in the mid-80s, which mean that I had the chance to live through what I consider a golden era of video games. I still remember playing pacman on my old man's Apple II. Along the years, I was lucky to have a lot of different systems and later on I went on chasing what I was missing. 
 
