@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ✈️ Ace Comabt 7 on Linux
-subtitle: \<<I was just a child when the stars fell from the skies\>>
+subtitle: I was just a child when the stars fell from the skies
 illustration: https://w2mnet.com/wp-content/uploads/2019/02/Ace-Combat-7-Cover.jpg
 categories: [blog]
 tags: [tuto, linux, proton, steam, gaming]
