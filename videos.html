@@ -9,7 +9,9 @@ permalink: /videos/
   {% for post in site.categories.videos %}
   <article class="post">
       <span class="date">{{ post.date | date: "%F"  }}</span><br>
+      <center>
       {{post.content}}
+      </center>
   </article>
   {% endfor %}
 </div>
