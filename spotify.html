@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Articles
-permalink: /articles/
+title: Spotify
+permalink: /spotify/
 ---
 
-A complete list of articles here by publishing date:
-<!--
+Something to listen to:
+<!--First version of Article, old page name
 <div class="posts">
   {% for post in site.categories.articles %}
    <ul> 
@@ -20,8 +20,10 @@ A complete list of articles here by publishing date:
   {% endfor %}
 </div>
 -->
+
+<!--Better version of Article, old page name
 <div class="post">
-  {% for page in site.categories.articles %}
+  {% for page in site.categories.spotify %}
     <article class="page">
       <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       <img src="{{page.illustration}}" style="object-fit: cover;width: 96px;height: 96px;padding: 5px;float:right;">
@@ -32,3 +34,15 @@ A complete list of articles here by publishing date:
     </article>
   {% endfor %}
 </div>
+-->
+
+<center>
+<div class="posts">
+  {% for post in site.categories.spotify %}
+  <article class="post">
+      <span class="date">{{ post.date | date: "%F"  }}</span><br>
+      {{post.content}}
+  </article>
+  {% endfor %}
+</div>
+</center>
