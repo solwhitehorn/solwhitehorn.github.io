@@ -40,7 +40,7 @@ Something to listen to:
 <div class="posts">
   {% for post in site.categories.spotify %}
   <article class="post">
-      <span class="date">{{ post.date | date: "%F"  }}</span><br>
+      <span class="date">{{ post.title }}</span>
       {{post.content}}
   </article>
   {% endfor %}
