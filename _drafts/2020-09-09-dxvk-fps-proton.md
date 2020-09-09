@@ -10,38 +10,25 @@ comments: true
 
 # MangoHud is the best way to monitor FPS on Linux
 
-Throw back to an article I wrote back in May about how to display your FPS with Proton on Steam. Since then I discovered an even better tool called MangoHud.
+![](https://github.com/flightlessmango/MangoHud/raw/master/assets/overlay_example.gif)
 
-MangoHud is a Vulcan and OpenGL overlay used for monitoring FPS, temperatures, CPU/GPU load, VRAM, RAM and more.
+Throw back to an article I wrote back in May about how to display your FPS with Proton on Steam. Since then I discovered an even better tool called MangoHud. It's a Vulcan and OpenGL overlay used for monitoring FPS, temperatures, CPU/GPU load, VRAM, RAM and more.
 
-Its installation is easy and I point you to the GitHub page for more information on that. 
-Using it is also really easy:
+Before going more into details, I want to say that **[flightlessmango](https://github.com/flightlessmango)** did an amazing job with this tool. Not only you can monitor a lot of parameters, they also have a website [https://flightlessmango.com](https://flightlessmango.com) where they have a collection of benchmarks they did as well as user benchmarks uploaded. Have a look at their website but also at their [youtube channel](https://www.youtube.com/c/FlightlessMango/featured) where they put insane work to propose a comparison between Linux and Windows. 
+
+Its installation is easy and I point you to the [GitHub](https://github.com/flightlessmango/MangoHud) page for more information on that. Using it is also really easy:
 
 - to enable the HUD for Vulkan and OpenGL run: `mangohud /path/to/app`
-- For Lutris, got to the system options and add this command prefix: `mangohud`
-- for Steam you can add this launch option: `mangohud %command%`
+- for **Lutris**, got to the system options and add this command prefix: `mangohud`
+- for **Steam** you can add this launch option: `mangohud %command%` or `MANGOHUD=1` to your shell profile for Vulkan.
 
-The command options that you can use with steam are numerous:
+MangoHud also as a lot of features such as:
 
-- `devinfo`: Displays the name of the GPU and the driver version.
-- `fps`: Shows the current frame rate.
-- `frametimes`: Shows a frame time graph.
-- `submissions`: Shows the number of command buffers submitted per frame.
-- `drawcalls`: Shows the number of draw calls and render passes per frame.
-- `pipelines`: Shows the total number of graphics and compute pipelines.
-- `memory`: Shows the amount of device memory allocated and used.
-- `gpuload`: Shows estimated GPU load. May be inaccurate.
-- `version`: Shows DXVK version.
-- `api`: Shows the D3D feature level used by the application.
-- `compiler`: Shows shader compiler activity.
-- `samplers`: Shows the current number of sampler pairs used [D3D9 Only].
-- **`full`**: enables all the available HUD elements
+- config files that can be used to set configuration options globally or per-application, so you can choose what to display, the color of the displayed text, the fonts, the size of the overlay, etc...
+- Logging you FPS so you can send the data back the creators
+- hotkeys to to toggle and reload the HUD and start logging
 
-The `DXVK_HUD=1 %command%` is equivalent here to `DXVK_HUD=deving,fps %command%`. Using Lutris, you can type the same options but this time you have to put that in the environment variable.
-
-As always, it you want to now more, the best source is the github page of the project: [https://github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk)
-
-If you want to see this in action, have a look at this video I made with the Witcher 3 running in Steam Proton on max settings:
+If you want to see this in action, have a look at this video I made with Ace Combat 7 running in Steam Proton on max settings:
 
 <br>
 
