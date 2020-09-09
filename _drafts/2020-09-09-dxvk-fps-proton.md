@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 📝 A great solution for displaying your FPS in Linux (Steam & Lutris)
-subtitle: MangoHud all day, everyday
+title: 🥭 MangoHud - great solution for displaying your FPS in Linux (Steam & Lutris)
+subtitle: Mango flavored overlay
 illustration:https://github.com/flightlessmango/MangoHud/blob/master/assets/overlay_example.gif
 categories: [blog]
 tags: [tuto, linux, proton]
@@ -16,11 +16,11 @@ Throw back to an article I wrote back in May about how to display your FPS with 
 
 Before going more into details, I want to say that **[flightlessmango](https://github.com/flightlessmango)** did an amazing job with this tool. Not only you can monitor a lot of parameters, they also have a website [https://flightlessmango.com](https://flightlessmango.com) where they have a collection of benchmarks they did as well as user benchmarks uploaded. Have a look at their website but also at their [youtube channel](https://www.youtube.com/c/FlightlessMango/featured) where they put insane work to propose a comparison between Linux and Windows. 
 
-Its installation is easy and I point you to the [GitHub](https://github.com/flightlessmango/MangoHud) page for more information on that. Using it is also really easy:
+Its installation is easy and I point you to the [GitHub](https://github.com/flightlessmango/MangoHud) page for more information on that. Using it is a matter of a few command:
 
 - to enable the HUD for Vulkan and OpenGL run: `mangohud /path/to/app`
 - for **Lutris**, got to the system options and add this command prefix: `mangohud`
-- for **Steam** you can add this launch option: `mangohud %command%` or `MANGOHUD=1` to your shell profile for Vulkan.
+- for **Steam** you can add this launch option: `MANGOHUD=1 %command%`
 
 MangoHud also as a lot of features such as:
 
@@ -28,10 +28,12 @@ MangoHud also as a lot of features such as:
 - Logging you FPS so you can send the data back the creators
 - hotkeys to to toggle and reload the HUD and start logging
 
-If you want to see this in action, have a look at this video I made with Ace Combat 7 running in Steam Proton on max settings:
+If you want to see this in action, have a look at this video where I sore through the skies on Ubuntu by playing Ace Combat 7 running in Steam Proton on max settings:
 
 <br>
 
 <center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/Yyt0AN_9TRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
- <br>
+Enjoy playing on Linux and keep learning.
+
+<br>
