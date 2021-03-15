@@ -1,0 +1,43 @@
+---
+layout: post
+title: 🎮 Mirabox - A good Linux capture card
+subtitle: A cheap usb capture card that does the work
+illustration: https://c1.neweggimages.com/ProductImageCompressAll1280/AS3BS2010141gQ5S.jpg
+categories: [blog]
+tags: [tuto, linux, switch, gaming]
+comments: false
+youtubeId:
+---
+
+### Testing the Mirabox usb 3.1 capture card under Linux
+
+### <br>
+
+---
+
+Hello all, long time no see right. I've been really busy with work since September and couldn't find the time to update the website or even add some videos to the channel.
+
+Something that I've been wanting to do for a long time is record some gameplay from my Switch. While looking for solution working on Linux I read this [reddit post](https://www.reddit.com/r/linux/comments/c5s5ml/i_tested_4_linuxcompatible_usb_30_hdmi_capture/) that is quite well down and comparing 4 devices. However this post is quite old now and some new devices are available since then. Also I didn't want to spent almost $180 on an Elgato, which seems to be dominating the market for a long time now. Of course another consideration was having something that can be used easily and natively on Linux and still be able to record 1080p@60 fps.
+
+Searching for such devices is becoming a chore. There are a lot of models, reviews are scarce and especially for people running linux. I decided to give a shot at the **Mirabox HD Video Capture Card HSV3217** which is advertised as working with Windows, Mac and Linux at the small price of around $60. It comes with the device, a USB-C to USB-C cable, a USB-C to USB3.0 Cable and the user manual. The device has 5 ports: USB-C port that connects to your computer, both HDMI input and output, headset output and a mic input.
+
+Setting it up is really easy: I have the Switch as an input, output goes to my second monitor and I have an audio loop to my computer. This way I can record while playing without any delay on the second monitor while I record.
+
+Setting up OBS for recording was also quite easy if you read the manual (in english) and follow the same setup steps as for Mac users. Be sure that in whatever distro you are using you set the mirabox as an input device for the audio.
+
+Then in OBS, you just have to add a _video capture device_ where the Mirabox will be instantly recognized and an _audio input capture_ as sources. I left everything to default. 
+
+![](https://i.imgur.com/I5EwRZB.png)
+
+Then the rest is your settings for recording. I'm using the Nvidia NVENC H.265/HEVC encoder set with the CQP (Constant Quantization Parameter) mode.
+
+To have a short review: 
+
+- The cheap price makes it a small investment if you are not serious about creating content.
+- Small form factor makes it easy to transport, but like other usb capture cards.
+- The colors are somewhat similar to the original signal but can show some artifacts in dark and bright screens
+- The device has a tendency to heat a little. Unfortunately it's seems hard to pry the plastic and have a look at what can be done to achieve a better cooling solution
+- If you don't have a second monitor and must play from OBS preview, be warry that there is a noticeable delay both in the video and audio that can be very distractive.
+- The colors are somewhat similar to the original but in dark and bright scene you can see some artifacts. 
+
+Anyway, showing is better than telling so here is a short clip of different type of games captured from my Switch. I hope that this little article has been helpful for people looking for a review of this device. Enjoy the video !
