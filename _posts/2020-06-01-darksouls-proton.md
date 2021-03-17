@@ -14,17 +14,17 @@ comments: true
 
 ---
 
-I can count the number of hours I spent playing the Souls games. From Demon Souls to the three Dark Souls and their different version, I think I spent an unhealthy amount of days playing them. 
+I can't count the number of hours I spent playing the Souls games. From Demon's Souls to the three Dark Souls and their different version, I think I spent an unhealthy amount of days playing them. 
 
 The Dark Souls Trilogy runs perfectly well on Linux with no tinkering to do. No need to use a custom version of Proton either.
 
-- Multiplayer was working in all of the games I played (expect Demon Souls ofc)
-- Performance was top notch with my system for PC games
+- Multiplayer was working in all of the Steam games.
+- Performance was top notch with my system for the Steam versions, not so much for Demon's Souls.
 
-- If you have the og Dark Souls I (Prepare to Die Edition), it's very easy to use the DSfix patch (copy the dll to the install directory and use the launch option `WINEDLLOVERRIDES="dinput8=n,b" %command%`). The only issue is that the intro and ending videos won't display. Otherwise, perfectly playable at 60FPS with rendering resolution higher than 1080p.
-- Dark Souls I - Remastered runs like a charm. 
+- If you have the og Dark Souls - Prepare to Die Edition, it's very easy to use the DSfix patch (copy the dll to the install directory and use the launch option `WINEDLLOVERRIDES="dinput8=n,b" %command%`). The only issue is that the intro and ending videos won't display. Otherwise, perfectly playable at 60FPS with rendering resolution higher than 1080p.
+- Dark Souls - Remastered runs like a charm. 
 
-- Dark Souls II. The only problem is grass popping on the tutorial area. A part from that I didn't encounter any problems. It's a known bug that is not present in the *Scholar of the first Sin* edition of the game. Also the intro and ending cinematics will not display i this version
+- Dark Souls II. The only problem is grass popping on the tutorial area. A part from that I didn't encounter any problems. It's a known bug that is not present in the *Scholar of the first Sin* edition of the game. Also the intro and ending cinematic will not display i this version
 - Dark Souls II. Runs flawlessly at maximum settings with a few stutter here and there (you will see in the video) but absolutely minimal
 - Demon Souls, emulated with RPCS3. I have a lot of audio stuttering and cracking. Again this is known issue for the game but the culprit here is most probably my i5-6500 that is getting a bit old now. However there is hope, especially since RPCS3 is still in alpha.
 
