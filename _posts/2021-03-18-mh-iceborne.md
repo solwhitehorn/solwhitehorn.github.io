@@ -4,7 +4,7 @@ title: ❄️ Returning to Monster Hunter World: Iceborne on Linux
 subtitle: The frosty fun never ends
 illustration: https://www.monsterhunter.com/world-iceborne/assets/img/common/common/logo_iceborne_bk.png
 categories: [blog]
-tags: [iceborne,proton,linux]
+tags: [iceborne, proton, linux]
 comments: false
 youtubeId:
 ---
