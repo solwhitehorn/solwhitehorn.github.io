@@ -20,9 +20,3 @@ Since then, I got the Iceborne DLC, and I had a lot of fun and good time with. I
 Anyway, I went back into the game to slay some wyverns. A first good surprise is that the game now runs natively without having to use a custom build of proton. The other good surprise is that I'm now hitting around 70 FPS in game at max settings. Unfortunately recording the game makes it drop quite a lot to around 45 to 55 FPS. 
 
 So as a kind of parting gift, because I don't think I'll put the time to finish the few monsters that resisted me before the release of Rise, here is some footage of me coming back to the game after a long break and having fun with Alatreon.
-
-<br>
-
-<center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/watch?v=RI8ohC23pk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<br>
