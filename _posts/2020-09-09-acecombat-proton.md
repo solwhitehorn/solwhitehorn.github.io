@@ -10,8 +10,6 @@ comments: true
 
 ### Ace Combat is one of my favorite series. Couldn't resist the urge to play it on Linux 
 
-### <br>
-
 ---
 
 I was first introduced to the Ace Combat series when I was a kid with Ace Combat 2 on the PSX. The, I spent way too much time playing Ace Combat 3 - Electrosphere. I was the only kid in my class to play this game and oh boy, I was addicted to it. The flying sensations, the music, the combat. Everything was exciting for a kid that grew up playing Flight Simulator 4.0 back in the early 90s. 

@@ -10,7 +10,7 @@ comments: false
 
 ### A little article about the setup I’m currently using to publish articles on the go
 
-<br>
+------
 
 I want to share with you on how I’m using my iPad to publish article on this website. At first I was using my personal laptop but I didn’t have it with me at all times. What I do have is an iPad that serves me very well for work. I was looking for a way to write up articles, push them on github and have them published when I’m on the go. Here’s how I do it at the moment.
 
