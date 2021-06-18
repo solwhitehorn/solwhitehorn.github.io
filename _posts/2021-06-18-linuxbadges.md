@@ -2,7 +2,7 @@
 layout: post
 title: Linux Badges to help spread the love
 subtitle: An idea to promote playing games on Linux
-illustration: 
+illustration: https://solwhitehorn.github.io/images/gol/gol_ubuntu.png
 categories: [blog]
 tags: [linux]
 comments: false
@@ -25,13 +25,13 @@ Feel free to use/modify them to your liking. Also, to all that are playing games
 
 Here is my contribution: 
 
-[<img src="{{ site.baseurl }}/images/gol/gaming on linux - inserts.png" alt="Linux Badges"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/gol/gol_inserts.png" alt="Linux Badges"/>]({{ site.baseurl }}/)
 
-Download the complete .svg file [here](https://solwhitehorn.github.io/images/gol/gaming%20on%20linux%20-%20inserts.svg) and the different 'flavors':
+Download the complete .svg file [here](https://solwhitehorn.github.io/images/gol/gol_inserts.svg) and the different 'flavors':
 
-- [ubuntu]()
-- [arch]()
-- [mint]()
-- [fedora]()
-- [debian]()
-- [gentoo]()
+- Ubuntu [svg](https://solwhitehorn.github.io/images/gol/gol_ubuntu.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_ubuntu.png)
+- Arch [svg](https://solwhitehorn.github.io/images/gol/gol_arch.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_arch.png)
+- Mint [svg](https://solwhitehorn.github.io/images/gol/gol_mint.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_mint.png)
+- Fedora [svg](https://solwhitehorn.github.io/images/gol/gol_fedora.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_fedora.png)
+- Debian [svg](https://solwhitehorn.github.io/images/gol/gol_debian.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_debian.png)
+- Gentoo [svg](https://solwhitehorn.github.io/images/gol/gol_gentoo.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_gentoo.png)

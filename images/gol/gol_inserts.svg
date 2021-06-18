@@ -28,14 +28,14 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.57370932"
-     inkscape:cx="937.75712"
-     inkscape:cy="530.75659"
+     inkscape:cx="650.15503"
+     inkscape:cy="528.14202"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g54810" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs78">
     <linearGradient
@@ -1582,8 +1582,7 @@
      inkscape:label="Ubuntu Flavor"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g1064"
        transform="translate(1498.5208,310.40003)">
@@ -1770,11 +1769,11 @@
            id="tspan17886"
            x="182.19937"
            y="303.13443"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
            sodipodi:role="line"
            x="182.19937"
-           y="382.17456"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
+           y="383.18555"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
            id="tspan22674">LINUX</tspan></text>
     </g>
   </g>
@@ -1782,8 +1781,7 @@
      inkscape:label="Fedora Flavor"
      inkscape:groupmode="layer"
      id="g54810"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g1101"
        transform="translate(1202.9268,-116.17351)">
@@ -1970,11 +1968,11 @@
            id="tspan54804"
            x="187.53586"
            y="724.58966"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
            sodipodi:role="line"
            x="187.53586"
-           y="803.62976"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
+           y="804.64081"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
            id="tspan54806">LINUX</tspan></text>
     </g>
   </g>
@@ -1982,8 +1980,7 @@
      inkscape:label="Mint Flavor"
      inkscape:groupmode="layer"
      id="g53664"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g1027"
        transform="translate(579.87713,310.40003)">
@@ -2170,11 +2167,11 @@
            id="tspan53658"
            x="524.30438"
            y="303.13443"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
            sodipodi:role="line"
            x="524.30438"
-           y="382.17456"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
+           y="383.18555"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
            id="tspan53660">LINUX</tspan></text>
     </g>
   </g>
@@ -2182,8 +2179,7 @@
      inkscape:label="Arch Flavor"
      inkscape:groupmode="layer"
      id="g53972"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g990"
        transform="translate(-50.444715,310.40003)">
@@ -2370,11 +2366,11 @@
            id="tspan53966"
            x="868.43298"
            y="303.13443"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
            sodipodi:role="line"
            x="868.43298"
-           y="382.17456"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
+           y="383.18555"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
            id="tspan53968">LINUX</tspan></text>
     </g>
   </g>
@@ -2382,8 +2378,7 @@
      inkscape:label="Gentoo Flavor"
      inkscape:groupmode="layer"
      id="g54424"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g54986"
        transform="translate(-971.08847,310.40003)">
@@ -2570,11 +2565,11 @@
            id="tspan54418"
            x="1212.5621"
            y="303.13443"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
            sodipodi:role="line"
            x="1212.5621"
-           y="382.17456"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
+           y="383.18555"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
            id="tspan54420">LINUX</tspan></text>
     </g>
   </g>
@@ -2582,8 +2577,7 @@
      inkscape:label="Debian Flavor"
      inkscape:groupmode="layer"
      id="g54678"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g54949"
        transform="translate(-1020.7666,310.40003)">
@@ -2770,11 +2764,11 @@
            id="tspan54672"
            x="1556.6918"
            y="303.13443"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001">GAMING ON</tspan><tspan
            sodipodi:role="line"
            x="1556.6918"
-           y="382.17456"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
+           y="383.18555"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.2321px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.988001"
            id="tspan54674">LINUX</tspan></text>
     </g>
   </g>
