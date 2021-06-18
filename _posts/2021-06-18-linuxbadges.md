@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Badges to help spread the love
+title: 💌 Watermark your videos to help spread the Linux Love
 subtitle: An idea to promote playing games on Linux
 illustration: https://solwhitehorn.github.io/images/watermark/watermark_ubuntu.png
 categories: [blog]
