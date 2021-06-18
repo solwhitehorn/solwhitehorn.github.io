@@ -21,13 +21,13 @@ Upon posting my video on [/r/linux_gaming](www.reddit.com/r/linux_gaming) a user
 
 Anyway, I opened Inkscape and got to work, quickly achieving this kind of 'badges' that I intend to overlay on the corner of my next videos. 
 
-Feel free to use/modify them to your liking. Also, to all that are playing games on linux, I think that it is very important to communicate on how games runs. We all have different systems and distros and there is no better way than showing the games rather than writing about our experiences. 
-
-Here is my contribution: 
+Feel free to use/modify them to your liking. Also, to all that are playing games on linux, I think that it is very important to communicate on how games runs. We all have different systems and distros and there is no better way than showing the games rather than writing about our experiences. Here is my contribution: 
 
 [<img src="{{ site.baseurl }}/images/gol/gol_inserts.png" alt="Linux Badges"/>]({{ site.baseurl }}/)
 
-Download the complete .svg file [here](https://solwhitehorn.github.io/images/gol/gol_inserts.svg) and the different 'flavors':
+Download the complete .svg file and the different 'flavors':
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://solwhitehorn.github.io/images/gol/gol_inserts.svg">Gaming on Linux badges</a> by <span property="cc:attributionName">solwhitehorn</span> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
 
 - Ubuntu [svg](https://solwhitehorn.github.io/images/gol/gol_ubuntu.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_ubuntu.png)
 - Arch [svg](https://solwhitehorn.github.io/images/gol/gol_arch.svg) / [png](https://solwhitehorn.github.io/images/gol/gol_arch.png)
