@@ -25,5 +25,22 @@ Feel free to use/modify them to your liking. Also, to all that are playing games
 
 <center>
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://solwhitehorn.github.io/images/watermark/watermark_inserts.svg">Played on Linux watermarks for video content</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://solwhitehorn.github.io">solwhitehorn and lewing@isc.tamu.edu Larry Ewing and The GIMP</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p></center>
-
 An archive with different flavors (Ubuntu; Arch; OpenSUSE; Mint; Fedora; Debian or Gentoo) and the initial version can be downloaded [here](https://solwhitehorn.github.io/images/watermark/watermarks.7z).
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://solwhitehorn.github.io/linuxbadges/">
+    <span property="dct:title">solwhitehorn</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Played on Linux watermarks for video content </span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="FR" about="https://solwhitehorn.github.io/linuxbadges/">
+  France</span>.
+</p>
