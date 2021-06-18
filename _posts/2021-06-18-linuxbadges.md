@@ -11,8 +11,6 @@ youtubeId:
 
 ### An idea for content creators 
 
-### <br>
-
 ---
 
 A couple of months ago I published my video showing how the Resident Evil games were running on Linux to celebrate the series 25th anniversary. 
