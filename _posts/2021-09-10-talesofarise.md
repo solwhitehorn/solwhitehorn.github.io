@@ -37,7 +37,7 @@ I didn't change anything recently so my setup is still the same used for all of 
 
 Starting Tales of Arise, we have a bunch of graphical options that we can tinker with and I'm glad that Bandai Namco gave some attention to the PC port. I pushed everything to the max, fullscreen at 1080p and removed the framerate limit.
 
-[<img src="{{ site.baseurl }}/images/toa/mpv-shot0001.jpg" alt="graphic settings"/>]({{ site.baseurl }}/)
+[![Tales of Arise, Graphical Settings](/images/toa/mpv-shot0001.jpg)](/images/toa/mpv-shot0001.jpg)
 
 3. #### In-game performance
 
