@@ -25,9 +25,7 @@ So now about us, as you now I play my games on Linux and we are going to have a 
 
 1. The setup
 
-I didn't change anything recently so my setup is still the same used for all of my previous tests: 
-
-### ADD SETUP
+I didn't change anything recently so my setup is still the same used for all of my previous tests Ubuntu 20.04 running on my old i5
 
 2. Game settings
 
