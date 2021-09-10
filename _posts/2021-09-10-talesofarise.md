@@ -23,20 +23,26 @@ After sixteen main entries in the saga now comes the latest installment called T
 
 So now about us, as you now I play my games on Linux and we are going to have a look at this game through some points. 
 
-1. The setup
+1. #### The setup
 
-I didn't change anything recently so my setup is still the same used for all of my previous tests Ubuntu 20.04 running on my old i5
+I didn't change anything recently so my setup is still the same used for all of my previous tests: 
 
-2. Game settings
+- Ubuntu 20.04 
+- Intel Core i5-6500 @ 4x 3,6GHz
+- NVIDIA GeForce GTX 1660 Ti / drivers 470.63.01
+- 16 Gb of DDR4
+- PS4 controller over bluetooth
 
-Starting Tales of Arise, we have a bunch of graphical options that we can tinker with and I'm glad that Bandai Namco gave some attention to the PC port. 
+2. #### Game settings
 
-3. In-game performance
+Starting Tales of Arise, we have a bunch of graphical options that we can tinker with and I'm glad that Bandai Namco gave some attention to the PC port. I pushed everything to the max, fullscreen at 1080p and removed the framerate limit.
 
-I've tested two things: 
+[<img src="{{ site.baseurl }}/images/toa/mpv-shot0001.png" alt="graphic settings"/>]({{ site.baseurl }}/)
 
-- playing directly after installation like any other player which means that Steam is using the latest available Proton version right now (6.3-6 released on August 21th).
-- using the latest available Proton-GloriousEggroll custom which is Proton-6.16-GE-1 at the time of this article.
+3. #### In-game performance
 
-From that I didn't see any differences in performance or compatibility. The game runs fine with either at a stable 60 FPS on my setup using mid-graphical settings.
+I notice a little bit of stuttering during exploration and combat and some desync on the first cutscene and that's it. The game is beautiful and I average around 100 fps during gameplay while cutscenes are locked at 60 fps. 
 
+As always, I prefer to show rather than tell so here is some footage to showcase how the game runs. It's the 15 first minutes of the game with just one cutscene so it's spoiler free. Enjoy the video and I hope that you play this great game on Linux, and maybe on the Steam Deck some time soon ! 
+
+<center><iframe class="iframev" width="560" height="315" src="https://www.youtube.com/embed/MIopWbQ4TKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
