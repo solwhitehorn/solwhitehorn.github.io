@@ -13,3 +13,5 @@ I hope that you read some interesting thing here and that on the way you learn s
 Feel free to share a few word with me on twitter if you like. I’ll be sure to respond.
 
 Enjoy.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L17MUSO)
