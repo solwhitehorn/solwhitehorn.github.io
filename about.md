@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to Sol Heavy Industries. A beautiful name for a website full of different things. 
+Welcome to Sol Heavy Industries.
 My aim here is to share what I enjoy, mainly tinkering with Linux, paying video games, learning some new stuff and most of all, sharing it with people.
 
 This is my first run at a github page and learning how to use it is a fun process. I’m trying to publish some blog news about new stuff I discover and that might interest or help people. Time to time I upload a video of me playing some games, mainly on Linux, just for the fun of showing that gaming on this OS is a reality.
