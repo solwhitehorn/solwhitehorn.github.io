@@ -9,8 +9,11 @@ comments: true
 ---
 
 # A quick and easy way to display your FPS and more when using Steam Proton on Linux
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L17MUSO)
 
-As you might have seen I've been posting some videos now on my youtube channel. Some are short footages from my Switch (as I don't have a capture device), other are now some footage of my playing game in Linux.
+---
+
+As you might have seen I've been posting some videos now on my [youtube channel](https://www.youtube.com/channel/UCmg6o_N1gIWJiCqTrsixBpg). Some are short footages from my Switch (as I don't have a capture device), other are now some footage of playing game in Linux.
 
 In a past life using Windows I was used to having MSI Afterburner to monitor the performance of my games. You can't run this soft in Linux but there is a easy and quick way to do so.
 
