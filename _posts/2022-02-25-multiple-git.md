@@ -43,8 +43,8 @@ cd ~/.ssh/
 Then we will create the keys
 
 ``` bash 
-ssh-keygen -t rsa -C "work@email.com" -f "id_rsa_work
-ssh-keygen -t rsa -C "personal@email.com" -f "id_rsa_personal
+ssh-keygen -t rsa -C "work@email.com" -f "id_rsa_work"
+ssh-keygen -t rsa -C "personal@email.com" -f "id_rsa_personal"
 ```
 
 You will see 4 files in your .ssh folder: 
@@ -79,7 +79,7 @@ touch config
 nano config
 ```
 Here is the content: 
-```
+``` bash 
 # Work account
 Host github.com
    HostName github.com
