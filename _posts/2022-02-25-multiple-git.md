@@ -35,14 +35,14 @@ We are going to setup your ssh keys for the different accounts your are managing
 
 If it doesn't exist already, create the .ssh folder:
 
-```$ 
+``` bash
 mkdir ~/.ssh
 cd ~/.ssh/
 ```
 
 Then we will create the keys
 
-```$ 
+``` bash 
 ssh-keygen -t rsa -C "work@email.com" -f "id_rsa_work
 ssh-keygen -t rsa -C "personal@email.com" -f "id_rsa_personal
 ```
@@ -63,7 +63,7 @@ Log in github, go to your settings, SSH and GPG keys and click on "New SSH key".
 
 Now comes the fun part, you want to register the key with the ssh-agent. The problem that I had was that ssh-agent was not running on start-up and it gave me nightmares. I found an easy solution using keychain. Keychain is designed to help you manage your ssh keys with minimal interaction from your part, perfect for us. We are going to add a few lines to your shell configuration in (so .bashrc or zshrc for example), don't forget to source your shell after that:
 
-```$ 
+``` bash 
 eval $(keychain --eval --quiet ~/.ssh/id_rsa_work)
 eval $(keychain --eval --quiet ~/.ssh/id_rsa_personal)
 source .bashrc
@@ -73,7 +73,7 @@ source .bashrc
 
 We are going to create a config file and then make the entries for our setup, user any editor you like, I used nano here: 
 
-```$
+``` bash 
 cd ~./ssh/
 touch config
 nano config
@@ -105,14 +105,14 @@ Go to your repo page and click on "Code" and select the SSH method and copy the 
 You will do that for both repos you need to clone of course. 
 Now time to clone them but we are going to do a little modification, **add -personal to github.com on the second repo** so it matches our config file: 
 
-```$
+``` bash 
 git clone git@github.com:work/work_repo_name.git
 git clone git@github.com-personal:personal/personal_repo_name.git
 ```
 
 The final touch, we are going to configure git for each repo: 
 
-```$
+``` bash 
 cd work_repo_name/
 git config --local user.name "work"
 git config --local user.email "work@email.com"
