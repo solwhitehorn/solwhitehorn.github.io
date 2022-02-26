@@ -26,10 +26,10 @@ So first thing first you need to setup several things:
 
 We are going to setup your ssh keys for the different accounts your are managing. for simplicity let's imagine this situation: 
 
->| Accounts |     Email              |  Repo |
->|----------|:-------------          |------ |
->| work     |  work@email.com        | work_repo_name.git |
->| personal |    personal@email.com  | personal_repo_name.git |
+| Accounts |     Email              |  Repo |
+|----------|:---------------------|-------|
+| work     |  work@email.com        | work_repo_name.git |
+| personal |    personal@email.com  | personal_repo_name.git |
 
 ### <ins>1. Creating and storing the ssh keys</ins>
 
