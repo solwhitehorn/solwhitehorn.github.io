@@ -9,7 +9,7 @@ comments: false
 youtubeId:
 ---
 
-### 🎛️ Easily share your WiFi with a QRcode
+### How often do you use qrcodes?
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L17MUSO)
 
