@@ -15,11 +15,11 @@ youtubeId:
 
 ---
 
-Hey there! A short artcile because this weekend I had to setup a new WiFi network at home and I didn't want to have to speel the long password everytime a familly memeber wanted to connect there phone to the new network. So looking for a quick solution, I had the idea to print a QRcode and put on the router's cabinet door.
+Hey there! A short article because this weekend I had to setup a new WiFi network at home and I didn't want to have to spell the long password every time a family member wanted to connect there phone to the new network. So looking for a quick solution, I had the idea to print a QRcode and put on the router's cabinet door.
 
 This is really simple and you can even customize it a bit to make it looks good.
 
-You can use qrencode to do so, grab your favourite package manager and: 
+You can use qrencode to do so, grab your favorite package manager and: 
 
 ```bash
 #if you are using arch
@@ -49,7 +49,7 @@ Let's have a look at the options we have here:
 - -d specifies the DPI of the generated PNG
 - -o specifies the output file
 
-You can create any QRcode you like linking to a website, a youtube video, a file shared on the cloud, just be creative. And with the error correction set to Highest, you can modify the QRcode in GIMP and make something a little bit more colorful. For exemple: 
+You can create any QRcode you like linking to a website, a youtube video, a file shared on the cloud, just be creative. And with the error correction set to Highest, you can modify the QRcode in GIMP and make something a little bit more colorful. For example: 
 
 [![qrcode](/images/whitehorn.png)](/images/whitehorn.png)
 
