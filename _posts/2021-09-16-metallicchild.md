@@ -2,7 +2,7 @@
 layout: post
 title: 💽 Metallic Child Demo 
 subtitle: Rogue Lite Action on Linux
-illustration: https://storage.qoo-static.com/game/15348/SiKbYdNZ9Czk2s1UeOvKynj6h5GnNN8y.png
+illustration: https://pbs.twimg.com/media/EC1eCQOXsAEiB5o.jpg
 categories: [blog]
 tags: [gaming, linux, proton]
 comments: false
