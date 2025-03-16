@@ -2,6 +2,11 @@
 - type: youtube
   icon: 'fa-brands fa-youtube'
   url:  'https://www.youtube.com/@solidor_'
+  
+- type: digital
+  icon: 'fa-solid fa-camera'
+  url:  'https://solwhitehorn.github.io/digitalscape/'
+  noblank: false
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
