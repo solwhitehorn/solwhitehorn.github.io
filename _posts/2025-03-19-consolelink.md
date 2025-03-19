@@ -31,8 +31,8 @@ Unlike traditional capture software, Console Link integrates powerful technologi
 - Efficient macOS and iPadOS optimization, ensuring minimal CPU and GPU overhead.
 
 <div class="juxtapose">
-    <img src="totk_720p_nomods.png" data-label="Native" data-credit="720p preview."/>
-    <img src="totk_4k_perf_medium.png" data-label="4K with Super Resolution and Sampling" data-credit="4K resolution upscale of Tears of the Kingdom with Super Resolution set to 'performance' and Super Sampling set to 'medium'."/>
+    <img src="totk_720p_nomods.png" data-label="Native" data-credit="720p preview." alt="native"/>
+    <img src="totk_4k_perf_medium.png" data-label="4K with Super Resolution and Sampling" data-credit="4K resolution upscale of Tears of the Kingdom with Super Resolution set to 'performance' and Super Sampling set to 'medium'." alt="super-resolution"/>
 </div>
 
 ## 2. Use cases
@@ -69,8 +69,8 @@ Keep learning, and happy gaming! 🎮
 ## 4. Image comparisons and showcase.
 ### Monster Hunter Wilds - PS5 Pro.
 <div class="juxtapose">
-    <img src="1080p_no_super.png" data-label="Native" data-credit="Live preview form the capture box."/>
-    <img src="1080p_superrez_performance.png" data-label="Super Resolution and Sampling On" data-credit="With Super Resolution set to 'performance' and Super Sampling set to 'medium'."/>
+    <img src="1080p_no_super.png" data-label="Native" data-credit="Live preview form the capture box." alt="original image"/>
+    <img src="1080p_superrez_performance.png" data-label="Super Resolution and Sampling On" data-credit="With Super Resolution set to 'performance' and Super Sampling set to 'medium'." alt="super-resolution"/>
 </div>
 
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
