@@ -16,7 +16,7 @@ image:
 
 [Console Link](https://chunqian.org/console-link) is a macOS and iPadOS app developed by Chunqian Shen. It allows users to preview their capture card feed with ultra-low latency, high image fidelity, and a user-friendly interface tailored for macOS and iPadOS environments.
 
-You may initially assume that OBS or similar streaming software already provides such functionality. However, there is a fundamental difference: while streaming applications focus primarily on recording and broadcasting, * Console Link is optimized exclusively for high-quality previewing **, making it an ideal solution for users who rely on a MacBook or iPad as their primary display.
+You may initially assume that OBS or similar streaming software already provides such functionality. However, there is a fundamental difference: while streaming applications focus primarily on recording and broadcasting, **Console Link is optimized exclusively for high-quality previewing**, making it an ideal solution for users who rely on a MacBook or iPad as their primary display.
 
 ### The idea behind Console Link
 As detailed in the [official FAQ](https://chunqian.org/console-link#faq), the developer created Console Link to address a very specific need:
@@ -24,10 +24,10 @@ As detailed in the [official FAQ](https://chunqian.org/console-link#faq), the de
 > "I don't use a monitor and primarily use a MacBook Air and iPad Pro for my daily tasks. I wanted to enjoy playing games on PlayStation, Xbox, and Switch during my free time using my MacBook Air and iPad Pro. However, after trying out software like OBS, QuickTime Player, Orion, Genki Studio, and Monicon, I was dissatisfied due to severe overheating, frame drops, lag, or cumbersome operations. None of them met my requirements. Console Link was conceived and developed in response to these specific needs."
 
 Unlike traditional capture software, Console Link integrates powerful technologies designed to improve image quality, responsiveness, and efficiency:
-- ** Low-latency render engine **, enabling playback up to 4K@120fps (depending on your capture card)
-- ** Super Resolution Engine **, upscaling from native 4K to 5K
-- ** Super Sampling Engine **, refining visual clarity and reducing aliasing
-- ** Color Space Engine **, supporting sRGB, Display P3, and Adobe RGB for accurate color reproduction
+- **Low-latency render engine**, enabling playback up to 4K@120fps (depending on your capture card)
+- **Super Resolution Engine**, upscaling from native 4K to 5K
+- **Super Sampling Engine**, refining visual clarity and reducing aliasing
+- **Color Space Engine**, supporting sRGB, Display P3, and Adobe RGB for accurate color reproduction
 - Efficient macOS and iPadOS optimization, ensuring minimal CPU and GPU overhead.
 
 <div class="juxtapose">
