@@ -2,8 +2,8 @@
 title: 🎮 Console Link - The Best Way to Preview Your Console on Mac and iPad
 description: Console Link is what you need.
 date: 2025-03-19 10:00:00 +/-TTTT
-categories: [Mac, Gaming] # max 2 categories
-tags: [apps, mac, gaming] 
+categories: [mac, games] # max 2 categories
+tags: [apps, mac, games, ps5] 
 toc: true
 comments: false
 pin: false
