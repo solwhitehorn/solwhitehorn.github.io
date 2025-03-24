@@ -30,6 +30,15 @@ Unlike traditional capture software, Console Link integrates powerful technologi
 - **Color Space Engine**, supporting sRGB, Display P3, and Adobe RGB for accurate color reproduction
 - Efficient macOS and iPadOS optimization, ensuring minimal CPU and GPU overhead.
 
+I asked Chunqian Shen if they would kindly explain how does Console Link works. Here are some details: 
+
+> The core of Console Link consists of two main components: Low-Latency Mode and Super Resolution / Supersampling Processing.
+
+> In terms of Low-Latency Mode, the system synchronizes with the display’s refresh cycle using CVDisplayLink. Each time a frame of image data is captured, it is first written to a buffer. Then, at the arrival of the next display refresh cycle, a frame is read from the buffer for display. To address potential mismatches between the capture and display cycles, the buffering mechanism employs an efficient bi-directional synchronization strategy. This allows precise alignment between the two processes, resulting in a smooth experience with no dropped frames.
+
+> For Super Resolution and SuperSampling, the system uses MTLFXSpatialScaler from MetalFX to upscale images without reducing the original resolution. To balance performance and image quality, a high-efficiency offscreen rendering mechanism is introduced. The specific workflow is as follows: each captured frame is first converted into an offscreen texture via Metal. This texture is then processed using a convolution kernel for supersampling. The resulting high-quality offscreen texture is written into the buffer and awaits output during the next display refresh cycle. 
+ 
+
 <div class="juxtapose">
     <img src="totk_720p_nomods.png" data-label="Native" data-credit="720p preview." alt="native"/>
     <img src="totk_4k_perf_medium.png" data-label="4K with Super Resolution and Sampling" data-credit="4K resolution upscale of Tears of the Kingdom with Super Resolution set to 'performance' and Super Sampling set to 'medium'." alt="super-resolution"/>
